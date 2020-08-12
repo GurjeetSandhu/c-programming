@@ -1,26 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+int maximum(int, int)
 /*
  * Determines if coord is in range between
  * offset (INCLUSIVE) and offset + size (EXCLUSIVE)
  */
-int maximum(int a, int b)
+
+int isInRange(int coord, int offset, int size) 
 {
-  if( a > b) {return a;}
-  else
-    {
-      return b;
-    }
-}
-int isInRange(int coord, int offset, int size) {
   if (coord >= offset && coord<=(offset+size))
     {
-      return 1;
+      return 1;// if coord is in range, return 1
     }
-  // if coord is in range, return 1
-  // else, return 0
-  else {
+  else  // else, return 0
+    {
     return 0;
 }
 }
@@ -29,17 +22,20 @@ int isInRange(int coord, int offset, int size) {
  * Determines if coord is at border of offset or
  * offset + size
  */
-int isAtBorder(int coord, int offset, int size) {
-if (coord == offset || coord == (offset+size))
+int isAtBorder(int coord, int offset, int size) 
+{
+if (coord == offset || coord == (offset+size))// if coord is equal to offest or offset + size
     {
-      return 1;
+      return 1; // return 1, else return 0
     }
-  // if coord is equal to offest or offset + size
-  // return 1, else return 0
- else { return 0;}
+  else 
+    {
+         return 0;
+  }
 }
 
-void squares(int size1, int x_offset, int y_offset, int size2) {
+void squares(int size1, int x_offset, int y_offset, int size2) 
+{
   int w = maximum(size1,(x_offset + size2));//compute the max of size1 and (x_offset + size2).  Call this w
 
   int h = maximum(y_offset,(y_offset + size2)); //compute the max of size1 and (y_offset + size2).o  Call this h
@@ -72,4 +68,16 @@ void squares(int size1, int x_offset, int y_offset, int size2) {
         }
       printf("\n"); //print a newline
     } 
+}
+
+int maximum(int g, int h)
+{
+  if( g > h) 
+    {
+        return g;
+  }
+  else
+    {
+      return h;
+    }
 }
