@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//hahahahahahahha
+// aa gya bhn dainya
 
 /* 
  * Determines if coord is in range between
