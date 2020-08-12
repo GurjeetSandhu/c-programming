@@ -44,7 +44,7 @@ void squares(int size1, int x_offset, int y_offset, int size2)
     {
       for(int x=0; x<=w;x++)//count from 0 to w. Call the number you count with x 
         {
-          if(((x > x_offset && x < (x_offset + size2)) && (y == y_offset || y == (y_offset +size2-1))) || ((y > y_offset && y < (y_offset + size2)) && (x == x_offset || x == (x_offset + size2 -1))))/check if  EITHER
+          if(((x_offset<=x && x<x_offset +size2) && (y==y_offset || y==y_offset + size2 - 1)) || ((y_offset<=y && y<y_offset +size2) && ((x==x_offset || x==x_offset +size2 - 1))))/check if  EITHER
       //    ((x is between x_offset  and x_offset +size2) AND
       //     y is equal to either y_offset OR y_offset + size2 - 1 )
       //  OR
@@ -53,7 +53,7 @@ void squares(int size1, int x_offset, int y_offset, int size2)
             {
 	printf("*"); // if so, print a *
 		}
-          else if ( (( x < size1 && ((y == 0) || (y ==(size1-1 )) )) || ( y < size1 && ( (x == 0) || (x ==(size1-1 )) ) )))//if not,
+        else if((x<size1 && (y==0 || y==size1-1))||(y<size1 &&(x==0 || x==size1-1)))//if not,
       // check if EITHER
       //    x is less than size1 AND (y is either 0 or size1-1)
       // OR
