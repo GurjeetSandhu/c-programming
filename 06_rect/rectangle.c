@@ -29,7 +29,7 @@ if(r.x<0)
 {r.x= r.x + r.width;
 r.width = -r.width;}
 
-else if(r.height<0)
+if(r.height<0)
 {r.y=r.y+r.height;
  r.height=-r.height;}
 
