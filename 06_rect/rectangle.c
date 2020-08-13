@@ -21,7 +21,7 @@ struct rectangle //Declare your rectangle structure here!
 	int y;
 	int width;
 	int height;
-}
+};
 
 
 rectangle canonicalize(rectangle r) {
