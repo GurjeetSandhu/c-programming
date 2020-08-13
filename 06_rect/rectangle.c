@@ -15,12 +15,25 @@ int max (int a, int b) {
   return b;
 }
 
-//Declare your rectangle structure here!
+struct rectangle //Declare your rectangle structure here!
+{
+	int x;
+	int y;
+	int width;
+	int height;
+}
 
 
 rectangle canonicalize(rectangle r) {
-  //WRITE THIS FUNCTION
-  return r;
+if(r.x<0)
+{r.x= r.x + r.width;
+r.width = -r.width;}
+
+else if(r.height<0)
+{r.y=r.y+r.height;
+ r.height=-r.height;}
+
+return r;
 }
 rectangle intersection(rectangle r1, rectangle r2) {
   //WRITE THIS FUNCTION
