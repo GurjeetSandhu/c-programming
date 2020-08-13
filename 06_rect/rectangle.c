@@ -21,7 +21,8 @@ struct rectangle //Declare your rectangle structure here!
 	int y;
 	int width;
 	int height;
-};struct rectangle r;
+};typedef struct rectangle rectangle;
+
 
 rectangle canonicalize(rectangle r) {
 if(r.x<0)
