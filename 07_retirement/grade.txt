@@ -1,0 +1,459 @@
+Grading at Fri Aug 14 16:41:44 UTC 2020
+Attempting to compile retirement.c
+Checking for struct _retire_info
+Found on line 4, column 1 
+Checking for field int months
+Found on line 6, column 3 
+Checking for field double contribution
+Found on line 7, column 3 
+Checking for field double rate_of_return
+Found on line 8, column 3 
+Checking for typedef of struct _retire_info to retire_info
+Found on line 10, column 1 
+Checking for void retirement (int startAge, double initial,  retire_info working,  retire_info retired)
+Found on line 12, column 1 
+Checking for int main(void)
+Found on line 38, column 1 
+Trying to run retirement calculator..
+Line_1_did_not_match
+Line_2_did_not_match
+Line_3_did_not_match
+Line_4_did_not_match
+Line_5_did_not_match
+Line_6_did_not_match
+Line_7_did_not_match
+Line_8_did_not_match
+Line_9_did_not_match
+Line_10_did_not_match
+Line_11_did_not_match
+Line_12_did_not_match
+Line_13_did_not_match
+Line_14_did_not_match
+Line_15_did_not_match
+Line_16_did_not_match
+Line_17_did_not_match
+Line_18_did_not_match
+Line_19_did_not_match
+Line_20_did_not_match
+Line_21_did_not_match
+Line_22_did_not_match
+Line_23_did_not_match
+Line_24_did_not_match
+Line_25_did_not_match
+Line_26_did_not_match
+Line_27_did_not_match
+Line_28_did_not_match
+Line_29_did_not_match
+Line_30_did_not_match
+Line_31_did_not_match
+Line_32_did_not_match
+Line_33_did_not_match
+Line_34_did_not_match
+Line_35_did_not_match
+Line_36_did_not_match
+Line_37_did_not_match
+Line_38_did_not_match
+Line_39_did_not_match
+Line_40_did_not_match
+Line_41_did_not_match
+Line_42_did_not_match
+Line_43_did_not_match
+Line_44_did_not_match
+Line_45_did_not_match
+Line_46_did_not_match
+Line_47_did_not_match
+Line_48_did_not_match
+Line_49_did_not_match
+Line_50_did_not_match
+Line_51_did_not_match
+Line_52_did_not_match
+Line_53_did_not_match
+Line_54_did_not_match
+Line_55_did_not_match
+Line_56_did_not_match
+Line_57_did_not_match
+Line_58_did_not_match
+Line_59_did_not_match
+Line_60_did_not_match
+Line_61_did_not_match
+Line_62_did_not_match
+Line_63_did_not_match
+Line_64_did_not_match
+Line_65_did_not_match
+Line_66_did_not_match
+Line_67_did_not_match
+Line_68_did_not_match
+Line_69_did_not_match
+Line_70_did_not_match
+Line_71_did_not_match
+Line_72_did_not_match
+Line_73_did_not_match
+Line_74_did_not_match
+Line_75_did_not_match
+Line_76_did_not_match
+Line_77_did_not_match
+Line_78_did_not_match
+Line_79_did_not_match
+Line_80_did_not_match
+Line_81_did_not_match
+Line_82_did_not_match
+Line_83_did_not_match
+Line_84_did_not_match
+Line_85_did_not_match
+Line_86_did_not_match
+Line_87_did_not_match
+Line_88_did_not_match
+Line_89_did_not_match
+Line_90_did_not_match
+Line_91_did_not_match
+Line_92_did_not_match
+Line_93_did_not_match
+Line_94_did_not_match
+Line_95_did_not_match
+Line_96_did_not_match
+Line_97_did_not_match
+Line_98_did_not_match
+Line_99_did_not_match
+Line_100_did_not_match
+Line_101_did_not_match
+Line_102_did_not_match
+Line_103_did_not_match
+Line_104_did_not_match
+Line_105_did_not_match
+Line_106_did_not_match
+Line_107_did_not_match
+Line_108_did_not_match
+Line_109_did_not_match
+Line_110_did_not_match
+Line_111_did_not_match
+Line_112_did_not_match
+Line_113_did_not_match
+Line_114_did_not_match
+Line_115_did_not_match
+Line_116_did_not_match
+Line_117_did_not_match
+Line_118_did_not_match
+Line_119_did_not_match
+Line_120_did_not_match
+Line_121_did_not_match
+Line_122_did_not_match
+Line_123_did_not_match
+Line_124_did_not_match
+Line_125_did_not_match
+Line_126_did_not_match
+Line_127_did_not_match
+Line_128_did_not_match
+Line_129_did_not_match
+Line_130_did_not_match
+Line_131_did_not_match
+Line_132_did_not_match
+Line_133_did_not_match
+Line_134_did_not_match
+Line_135_did_not_match
+Line_136_did_not_match
+Line_137_did_not_match
+Line_138_did_not_match
+Line_139_did_not_match
+Line_140_did_not_match
+Line_141_did_not_match
+Line_142_did_not_match
+Line_143_did_not_match
+Line_144_did_not_match
+Line_145_did_not_match
+Line_146_did_not_match
+Line_147_did_not_match
+Line_148_did_not_match
+Line_149_did_not_match
+Line_150_did_not_match
+Line_151_did_not_match
+Line_152_did_not_match
+Line_153_did_not_match
+Line_154_did_not_match
+Line_155_did_not_match
+Line_156_did_not_match
+Line_157_did_not_match
+Line_158_did_not_match
+Line_159_did_not_match
+Line_160_did_not_match
+Line_161_did_not_match
+Line_162_did_not_match
+Line_163_did_not_match
+Line_164_did_not_match
+Line_165_did_not_match
+Line_166_did_not_match
+Line_167_did_not_match
+Line_168_did_not_match
+Line_169_did_not_match
+Line_170_did_not_match
+Line_171_did_not_match
+Line_172_did_not_match
+Line_173_did_not_match
+Line_174_did_not_match
+Line_175_did_not_match
+Line_176_did_not_match
+Line_177_did_not_match
+Line_178_did_not_match
+Line_179_did_not_match
+Line_180_did_not_match
+Line_181_did_not_match
+Line_182_did_not_match
+Line_183_did_not_match
+Line_184_did_not_match
+Line_185_did_not_match
+Line_186_did_not_match
+Line_187_did_not_match
+Line_188_did_not_match
+Line_189_did_not_match
+Line_190_did_not_match
+Line_191_did_not_match
+Line_192_did_not_match
+Line_193_did_not_match
+Line_194_did_not_match
+Line_195_did_not_match
+Line_196_did_not_match
+Line_197_did_not_match
+Line_198_did_not_match
+Line_199_did_not_match
+Line_200_did_not_match
+Line_201_did_not_match
+Line_202_did_not_match
+Line_203_did_not_match
+Line_204_did_not_match
+Line_205_did_not_match
+Line_206_did_not_match
+Line_207_did_not_match
+Line_208_did_not_match
+Line_209_did_not_match
+Line_210_did_not_match
+Line_211_did_not_match
+Line_212_did_not_match
+Line_213_did_not_match
+Line_214_did_not_match
+Line_215_did_not_match
+Line_216_did_not_match
+Line_217_did_not_match
+Line_218_did_not_match
+Line_219_did_not_match
+Your file did not match the expected ouput
+Your output did not match what we expected. Here is what you printed
+Age  27 months 48 you have $1080.04
+Age  54 months 96 you have $1004.05
+Age  27 months 36 you have $-3999.16
+Age  54 months 72 you have $-4003.33
+Age  81 months 108 you have $-4003.34
+Age 109 months  0 you have $-4003.34
+Age 136 months 36 you have $-4003.34
+Age 163 months 72 you have $-4003.34
+Age 190 months 108 you have $-4003.34
+Age 218 months  0 you have $-4003.34
+Age 245 months 36 you have $-4003.34
+Age 272 months 72 you have $-4003.34
+Age 299 months 108 you have $-4003.34
+Age 327 months  0 you have $-4003.34
+Age 354 months 36 you have $-4003.34
+Age 381 months 72 you have $-4003.34
+Age 408 months 108 you have $-4003.34
+Age 436 months  0 you have $-4003.34
+Age 463 months 36 you have $-4003.34
+Age 490 months 72 you have $-4003.34
+Age 517 months 108 you have $-4003.34
+Age 545 months  0 you have $-4003.34
+Age 572 months 36 you have $-4003.34
+Age 599 months 72 you have $-4003.34
+Age 626 months 108 you have $-4003.34
+Age 654 months  0 you have $-4003.34
+Age 681 months 36 you have $-4003.34
+Age 708 months 72 you have $-4003.34
+Age 735 months 108 you have $-4003.34
+Age 763 months  0 you have $-4003.34
+Age 790 months 36 you have $-4003.34
+Age 817 months 72 you have $-4003.34
+Age 844 months 108 you have $-4003.34
+Age 872 months  0 you have $-4003.34
+Age 899 months 36 you have $-4003.34
+Age 926 months 72 you have $-4003.34
+Age 953 months 108 you have $-4003.34
+Age 981 months  0 you have $-4003.34
+Age 1008 months 36 you have $-4003.34
+Age 1035 months 72 you have $-4003.34
+Age 1062 months 108 you have $-4003.34
+Age 1090 months  0 you have $-4003.34
+Age 1117 months 36 you have $-4003.34
+Age 1144 months 72 you have $-4003.34
+Age 1171 months 108 you have $-4003.34
+Age 1199 months  0 you have $-4003.34
+Age 1226 months 36 you have $-4003.34
+Age 1253 months 72 you have $-4003.34
+Age 1280 months 108 you have $-4003.34
+Age 1308 months  0 you have $-4003.34
+Age 1335 months 36 you have $-4003.34
+Age 1362 months 72 you have $-4003.34
+Age 1389 months 108 you have $-4003.34
+Age 1417 months  0 you have $-4003.34
+Age 1444 months 36 you have $-4003.34
+Age 1471 months 72 you have $-4003.34
+Age 1498 months 108 you have $-4003.34
+Age 1526 months  0 you have $-4003.34
+Age 1553 months 36 you have $-4003.34
+Age 1580 months 72 you have $-4003.34
+Age 1607 months 108 you have $-4003.34
+Age 1635 months  0 you have $-4003.34
+Age 1662 months 36 you have $-4003.34
+Age 1689 months 72 you have $-4003.34
+Age 1716 months 108 you have $-4003.34
+Age 1744 months  0 you have $-4003.34
+Age 1771 months 36 you have $-4003.34
+Age 1798 months 72 you have $-4003.34
+Age 1825 months 108 you have $-4003.34
+Age 1853 months  0 you have $-4003.34
+Age 1880 months 36 you have $-4003.34
+Age 1907 months 72 you have $-4003.34
+Age 1934 months 108 you have $-4003.34
+Age 1962 months  0 you have $-4003.34
+Age 1989 months 36 you have $-4003.34
+Age 2016 months 72 you have $-4003.34
+Age 2043 months 108 you have $-4003.34
+Age 2071 months  0 you have $-4003.34
+Age 2098 months 36 you have $-4003.34
+Age 2125 months 72 you have $-4003.34
+Age 2152 months 108 you have $-4003.34
+Age 2180 months  0 you have $-4003.34
+Age 2207 months 36 you have $-4003.34
+Age 2234 months 72 you have $-4003.34
+Age 2261 months 108 you have $-4003.34
+Age 2289 months  0 you have $-4003.34
+Age 2316 months 36 you have $-4003.34
+Age 2343 months 72 you have $-4003.34
+Age 2370 months 108 you have $-4003.34
+Age 2398 months  0 you have $-4003.34
+Age 2425 months 36 you have $-4003.34
+Age 2452 months 72 you have $-4003.34
+Age 2479 months 108 you have $-4003.34
+Age 2507 months  0 you have $-4003.34
+Age 2534 months 36 you have $-4003.34
+Age 2561 months 72 you have $-4003.34
+Age 2588 months 108 you have $-4003.34
+Age 2616 months  0 you have $-4003.34
+Age 2643 months 36 you have $-4003.34
+Age 2670 months 72 you have $-4003.34
+Age 2697 months 108 you have $-4003.34
+Age 2725 months  0 you have $-4003.34
+Age 2752 months 36 you have $-4003.34
+Age 2779 months 72 you have $-4003.34
+Age 2806 months 108 you have $-4003.34
+Age 2834 months  0 you have $-4003.34
+Age 2861 months 36 you have $-4003.34
+Age 2888 months 72 you have $-4003.34
+Age 2915 months 108 you have $-4003.34
+Age 2943 months  0 you have $-4003.34
+Age 2970 months 36 you have $-4003.34
+Age 2997 months 72 you have $-4003.34
+Age 3024 months 108 you have $-4003.34
+Age 3052 months  0 you have $-4003.34
+Age 3079 months 36 you have $-4003.34
+Age 3106 months 72 you have $-4003.34
+Age 3133 months 108 you have $-4003.34
+Age 3161 months  0 you have $-4003.34
+Age 3188 months 36 you have $-4003.34
+Age 3215 months 72 you have $-4003.34
+Age 3242 months 108 you have $-4003.34
+Age 3270 months  0 you have $-4003.34
+Age 3297 months 36 you have $-4003.34
+Age 3324 months 72 you have $-4003.34
+Age 3351 months 108 you have $-4003.34
+Age 3379 months  0 you have $-4003.34
+Age 3406 months 36 you have $-4003.34
+Age 3433 months 72 you have $-4003.34
+Age 3460 months 108 you have $-4003.34
+Age 3488 months  0 you have $-4003.34
+Age 3515 months 36 you have $-4003.34
+Age 3542 months 72 you have $-4003.34
+Age 3569 months 108 you have $-4003.34
+Age 3597 months  0 you have $-4003.34
+Age 3624 months 36 you have $-4003.34
+Age 3651 months 72 you have $-4003.34
+Age 3678 months 108 you have $-4003.34
+Age 3706 months  0 you have $-4003.34
+Age 3733 months 36 you have $-4003.34
+Age 3760 months 72 you have $-4003.34
+Age 3787 months 108 you have $-4003.34
+Age 3815 months  0 you have $-4003.34
+Age 3842 months 36 you have $-4003.34
+Age 3869 months 72 you have $-4003.34
+Age 3896 months 108 you have $-4003.34
+Age 3924 months  0 you have $-4003.34
+Age 3951 months 36 you have $-4003.34
+Age 3978 months 72 you have $-4003.34
+Age 4005 months 108 you have $-4003.34
+Age 4033 months  0 you have $-4003.34
+Age 4060 months 36 you have $-4003.34
+Age 4087 months 72 you have $-4003.34
+Age 4114 months 108 you have $-4003.34
+Age 4142 months  0 you have $-4003.34
+Age 4169 months 36 you have $-4003.34
+Age 4196 months 72 you have $-4003.34
+Age 4223 months 108 you have $-4003.34
+Age 4251 months  0 you have $-4003.34
+Age 4278 months 36 you have $-4003.34
+Age 4305 months 72 you have $-4003.34
+Age 4332 months 108 you have $-4003.34
+Age 4360 months  0 you have $-4003.34
+Age 4387 months 36 you have $-4003.34
+Age 4414 months 72 you have $-4003.34
+Age 4441 months 108 you have $-4003.34
+Age 4469 months  0 you have $-4003.34
+Age 4496 months 36 you have $-4003.34
+Age 4523 months 72 you have $-4003.34
+Age 4550 months 108 you have $-4003.34
+Age 4578 months  0 you have $-4003.34
+Age 4605 months 36 you have $-4003.34
+Age 4632 months 72 you have $-4003.34
+Age 4659 months 108 you have $-4003.34
+Age 4687 months  0 you have $-4003.34
+Age 4714 months 36 you have $-4003.34
+Age 4741 months 72 you have $-4003.34
+Age 4768 months 108 you have $-4003.34
+Age 4796 months  0 you have $-4003.34
+Age 4823 months 36 you have $-4003.34
+Age 4850 months 72 you have $-4003.34
+Age 4877 months 108 you have $-4003.34
+Age 4905 months  0 you have $-4003.34
+Age 4932 months 36 you have $-4003.34
+Age 4959 months 72 you have $-4003.34
+Age 4986 months 108 you have $-4003.34
+Age 5014 months  0 you have $-4003.34
+Age 5041 months 36 you have $-4003.34
+Age 5068 months 72 you have $-4003.34
+Age 5095 months 108 you have $-4003.34
+Age 5123 months  0 you have $-4003.34
+Age 5150 months 36 you have $-4003.34
+Age 5177 months 72 you have $-4003.34
+Age 5204 months 108 you have $-4003.34
+Age 5232 months  0 you have $-4003.34
+Age 5259 months 36 you have $-4003.34
+Age 5286 months 72 you have $-4003.34
+Age 5313 months 108 you have $-4003.34
+Age 5341 months  0 you have $-4003.34
+Age 5368 months 36 you have $-4003.34
+Age 5395 months 72 you have $-4003.34
+Age 5422 months 108 you have $-4003.34
+Age 5450 months  0 you have $-4003.34
+Age 5477 months 36 you have $-4003.34
+Age 5504 months 72 you have $-4003.34
+Age 5531 months 108 you have $-4003.34
+Age 5559 months  0 you have $-4003.34
+Age 5586 months 36 you have $-4003.34
+Age 5613 months 72 you have $-4003.34
+Age 5640 months 108 you have $-4003.34
+Age 5668 months  0 you have $-4003.34
+Age 5695 months 36 you have $-4003.34
+Age 5722 months 72 you have $-4003.34
+Age 5749 months 108 you have $-4003.34
+Age 5777 months  0 you have $-4003.34
+Age 5804 months 36 you have $-4003.34
+Age 5831 months 72 you have $-4003.34
+Age 5858 months 108 you have $-4003.34
+Age 5886 months  0 you have $-4003.34
+Age 5913 months 36 you have $-4003.34
+
+Overall Grade: F
