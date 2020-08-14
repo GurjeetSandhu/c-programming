@@ -11,7 +11,6 @@ typedef struct _retire_info retire_info;
 
 void retirement(int startAge, double initial, retire_info working, retire_info retired)
 {
-  double ini = initial;
   for(int i=0;i<873;i++)
     { int l=i;
 	  l=l+startAge;
@@ -20,13 +19,13 @@ void retirement(int startAge, double initial, retire_info working, retire_info r
     
       if(i<=483)
 	{
-	  ini = (ini*working.rate_of_return*j)+ working.contribution+ini;
-	   printf("Age %3d months %2d you have $%.2lf\n", j, k, ini);
+	  initial = (initial*working.rate_of_return*i)+ working.contribution+initial;
+	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initial);
      }
       else
 	{
-	  ini = (ini*retired.rate_of_return*j)+ retired.contribution+ini;
-	   printf("Age %3d months %2d you have $%.2lf\n", j, k, ini);
+	  initial = (initial*retired.rate_of_return*i)+ retired.contribution+initial;
+	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initial);
 	}
     }
   
