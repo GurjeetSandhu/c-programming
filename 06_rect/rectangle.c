@@ -23,25 +23,42 @@ struct rectangle //Declare your rectangle structure here!
 	int height;
 };typedef struct rectangle rectangle;
 
-
 rectangle canonicalize(rectangle r) {
-if(r.x<0)
-{r.x= r.x + r.width;
+if(r.width < 0)
+{r.x = r.x + r.width;
 r.width = -r.width;}
 
-if(r.height<0)
-{r.y=r.y+r.height;
- r.height=-r.height;}
-
+if(r.height < 0)
+{r.y = r.y + r.height;
+ r.height = -r.height;}
 return r;
 }
+
 rectangle intersection(rectangle r1, rectangle r2) {
   //WRITE THIS FUNCTION
+  rectangle n1=canonicalize(r1);
+  rectangle n2=canonicalize(r2);
+  //co-ordinates of new rectangle are int left,right,top,bottom,height and width
+  int left,right,top,bottom,height,width;
+  left=max(n1.x,n2.x);
+  right=min(n1.x+n1.width,n2.x+n2.width);
+  top=min(n1.y+n1.height,n2.y+n2.height);
+  bottom=max(n1.y,n2.y);
+  width=right-left;
+  height=top-bottom;
+  if(width<0 || height<0)
+    {
+      width=0;height=0;
+    }
+  r1.x=left;
+  r1.y=bottom;
+  r1.width=width;
+  r1.height=height;
   return r1;
 }
 
 //You should not need to modify any code below this line
-void printRectangle(rectangle r) {
+void printRectangle(rectangle r) { 
   r = canonicalize(r);
   if (r.width == 0 && r.height == 0) {
     printf("<empty>\n");
@@ -76,7 +93,8 @@ int main (void) {
   r3.y = 7;
   r3.width = 7;
   r3.height = -10;
-  printf("r3 is ");
+  printf("r3 is
+ ");
   printRectangle(r3);
 
   r4.x = 0;
