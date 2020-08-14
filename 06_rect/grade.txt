@@ -1,0 +1,27 @@
+Grading at Fri Aug 14 10:45:04 UTC 2020
+Attempting to compile rectangle.c
+rectangle.c: In function ‘main’:
+rectangle.c:96:10: error: missing terminating " character [-Werror]
+   printf("r3 is
+          ^
+rectangle.c:96:3: error: missing terminating " character
+   printf("r3 is
+   ^
+rectangle.c:97:2: error: missing terminating " character [-Werror]
+  ");
+  ^
+rectangle.c:97:2: error: missing terminating " character
+rectangle.c:98:21: error: expected ‘)’ before ‘;’ token
+   printRectangle(r3);
+                     ^
+rectangle.c:178:1: error: invalid use of void expression
+ }
+ ^
+rectangle.c:178:1: error: expected ‘;’ before ‘}’ token
+rectangle.c:76:13: error: unused variable ‘r4’ [-Werror=unused-variable]
+   rectangle r4;
+             ^
+cc1: all warnings being treated as errors
+The code did not compile!
+
+Overall Grade: F
