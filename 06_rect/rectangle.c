@@ -93,8 +93,7 @@ int main (void) {
   r3.y = 7;
   r3.width = 7;
   r3.height = -10;
-  printf("r3 is
- ");
+  printf("r3 is");
   printRectangle(r3);
 
   r4.x = 0;
