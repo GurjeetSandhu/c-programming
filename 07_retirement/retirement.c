@@ -11,23 +11,23 @@ typedef struct _retire_info retire_info;
 
 void retirement(int startAge, double initial, retire_info working, retire_info retired)
 {
-  for(int i=1;i<=873;i++)
+  for(int i=0;i<=873;i++)
     {
       if(i<=483)
 	{int l=i;
 	  l=l+startAge;
 	 int j=l/12;
 	 int k=l%12;
-	  initial = (initial*working.rate_of_return)+ working.contribution;
-	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initial);
+	double  initialr = (initial*working.rate_of_return*j)+ working.contribution;
+	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initialr);
      }
       else
 	{int l=i;
 	  l=l+startAge;
 	 int j=l/12;
 	 int k=l%12;
-	  initial = (initial*retired.rate_of_return)+ retired.contribution;
-	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initial);
+	 double initialr = (initial*retired.rate_of_return*j)+ retired.contribution;
+	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initialr);
 	}
     }
   
