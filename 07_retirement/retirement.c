@@ -16,16 +16,16 @@ void retirement(int startAge, double initial, retire_info working, retire_info r
       if(i<=483)
 	{int l=i;
 	  l=l+startAge;
-	 int j=i/12;
-	 int k=i%12;
+	 int j=l/12;
+	 int k=l%12;
 	  initial = (initial*working.rate_of_return)+ working.contribution;
 	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initial);
      }
       else
 	{int l=i;
 	  l=l+startAge;
-	 int j=i/12;
-	 int k=i%12;
+	 int j=l/12;
+	 int k=l%12;
 	  initial = (initial*retired.rate_of_return)+ retired.contribution;
 	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initial);
 	}
