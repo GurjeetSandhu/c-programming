@@ -19,8 +19,15 @@ void retirement(int startAge, double initial, retire_info working, retire_info r
     
       if(i<=483)
 	{
-	  initial = (initial*working.rate_of_return*i)+ working.contribution+initial;
+	  if(i==0) {
+	    initial = (initial*working.rate_of_return*i)+ initial;
 	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initial);
+	  }
+	   else
+	     {
+	        initial = (initial*retired.rate_of_return*i)+ retired.contribution+initial;
+	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initial);
+	     }
      }
       else
 	{
@@ -36,7 +43,7 @@ int main()
 {
   int startAge = 327;
  int initial = 21345;
- retire_info working = {489,1000.0, 0.00375};
+ retire_info working = {489, 1000.0, 0.00375};
  retire_info retired = {384, -4000, 0.00083333};
  retirement(startAge, initial, working, retired); 
  return 0;
