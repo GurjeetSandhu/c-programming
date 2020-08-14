@@ -1,4 +1,4 @@
-Grading at Fri Aug 14 16:54:14 UTC 2020
+Grading at Fri Aug 14 17:01:42 UTC 2020
 Attempting to compile retirement.c
 Checking for struct _retire_info
 Found on line 4, column 1 
@@ -13,7 +13,7 @@ Found on line 10, column 1
 Checking for void retirement (int startAge, double initial,  retire_info working,  retire_info retired)
 Found on line 12, column 1 
 Checking for int main(void)
-Found on line 36, column 1 
+Found on line 37, column 1 
 Trying to run retirement calculator..
 Line_1_did_not_match
 Line_2_did_not_match
@@ -234,226 +234,1534 @@ Line_216_did_not_match
 Line_217_did_not_match
 Line_218_did_not_match
 Line_219_did_not_match
+Line_220_did_not_match
+Line_221_did_not_match
+Line_222_did_not_match
+Line_223_did_not_match
+Line_224_did_not_match
+Line_225_did_not_match
+Line_226_did_not_match
+Line_227_did_not_match
+Line_228_did_not_match
+Line_229_did_not_match
+Line_230_did_not_match
+Line_231_did_not_match
+Line_232_did_not_match
+Line_233_did_not_match
+Line_234_did_not_match
+Line_235_did_not_match
+Line_236_did_not_match
+Line_237_did_not_match
+Line_238_did_not_match
+Line_239_did_not_match
+Line_240_did_not_match
+Line_241_did_not_match
+Line_242_did_not_match
+Line_243_did_not_match
+Line_244_did_not_match
+Line_245_did_not_match
+Line_246_did_not_match
+Line_247_did_not_match
+Line_248_did_not_match
+Line_249_did_not_match
+Line_250_did_not_match
+Line_251_did_not_match
+Line_252_did_not_match
+Line_253_did_not_match
+Line_254_did_not_match
+Line_255_did_not_match
+Line_256_did_not_match
+Line_257_did_not_match
+Line_258_did_not_match
+Line_259_did_not_match
+Line_260_did_not_match
+Line_261_did_not_match
+Line_262_did_not_match
+Line_263_did_not_match
+Line_264_did_not_match
+Line_265_did_not_match
+Line_266_did_not_match
+Line_267_did_not_match
+Line_268_did_not_match
+Line_269_did_not_match
+Line_270_did_not_match
+Line_271_did_not_match
+Line_272_did_not_match
+Line_273_did_not_match
+Line_274_did_not_match
+Line_275_did_not_match
+Line_276_did_not_match
+Line_277_did_not_match
+Line_278_did_not_match
+Line_279_did_not_match
+Line_280_did_not_match
+Line_281_did_not_match
+Line_282_did_not_match
+Line_283_did_not_match
+Line_284_did_not_match
+Line_285_did_not_match
+Line_286_did_not_match
+Line_287_did_not_match
+Line_288_did_not_match
+Line_289_did_not_match
+Line_290_did_not_match
+Line_291_did_not_match
+Line_292_did_not_match
+Line_293_did_not_match
+Line_294_did_not_match
+Line_295_did_not_match
+Line_296_did_not_match
+Line_297_did_not_match
+Line_298_did_not_match
+Line_299_did_not_match
+Line_300_did_not_match
+Line_301_did_not_match
+Line_302_did_not_match
+Line_303_did_not_match
+Line_304_did_not_match
+Line_305_did_not_match
+Line_306_did_not_match
+Line_307_did_not_match
+Line_308_did_not_match
+Line_309_did_not_match
+Line_310_did_not_match
+Line_311_did_not_match
+Line_312_did_not_match
+Line_313_did_not_match
+Line_314_did_not_match
+Line_315_did_not_match
+Line_316_did_not_match
+Line_317_did_not_match
+Line_318_did_not_match
+Line_319_did_not_match
+Line_320_did_not_match
+Line_321_did_not_match
+Line_322_did_not_match
+Line_323_did_not_match
+Line_324_did_not_match
+Line_325_did_not_match
+Line_326_did_not_match
+Line_327_did_not_match
+Line_328_did_not_match
+Line_329_did_not_match
+Line_330_did_not_match
+Line_331_did_not_match
+Line_332_did_not_match
+Line_333_did_not_match
+Line_334_did_not_match
+Line_335_did_not_match
+Line_336_did_not_match
+Line_337_did_not_match
+Line_338_did_not_match
+Line_339_did_not_match
+Line_340_did_not_match
+Line_341_did_not_match
+Line_342_did_not_match
+Line_343_did_not_match
+Line_344_did_not_match
+Line_345_did_not_match
+Line_346_did_not_match
+Line_347_did_not_match
+Line_348_did_not_match
+Line_349_did_not_match
+Line_350_did_not_match
+Line_351_did_not_match
+Line_352_did_not_match
+Line_353_did_not_match
+Line_354_did_not_match
+Line_355_did_not_match
+Line_356_did_not_match
+Line_357_did_not_match
+Line_358_did_not_match
+Line_359_did_not_match
+Line_360_did_not_match
+Line_361_did_not_match
+Line_362_did_not_match
+Line_363_did_not_match
+Line_364_did_not_match
+Line_365_did_not_match
+Line_366_did_not_match
+Line_367_did_not_match
+Line_368_did_not_match
+Line_369_did_not_match
+Line_370_did_not_match
+Line_371_did_not_match
+Line_372_did_not_match
+Line_373_did_not_match
+Line_374_did_not_match
+Line_375_did_not_match
+Line_376_did_not_match
+Line_377_did_not_match
+Line_378_did_not_match
+Line_379_did_not_match
+Line_380_did_not_match
+Line_381_did_not_match
+Line_382_did_not_match
+Line_383_did_not_match
+Line_384_did_not_match
+Line_385_did_not_match
+Line_386_did_not_match
+Line_387_did_not_match
+Line_388_did_not_match
+Line_389_did_not_match
+Line_390_did_not_match
+Line_391_did_not_match
+Line_392_did_not_match
+Line_393_did_not_match
+Line_394_did_not_match
+Line_395_did_not_match
+Line_396_did_not_match
+Line_397_did_not_match
+Line_398_did_not_match
+Line_399_did_not_match
+Line_400_did_not_match
+Line_401_did_not_match
+Line_402_did_not_match
+Line_403_did_not_match
+Line_404_did_not_match
+Line_405_did_not_match
+Line_406_did_not_match
+Line_407_did_not_match
+Line_408_did_not_match
+Line_409_did_not_match
+Line_410_did_not_match
+Line_411_did_not_match
+Line_412_did_not_match
+Line_413_did_not_match
+Line_414_did_not_match
+Line_415_did_not_match
+Line_416_did_not_match
+Line_417_did_not_match
+Line_418_did_not_match
+Line_419_did_not_match
+Line_420_did_not_match
+Line_421_did_not_match
+Line_422_did_not_match
+Line_423_did_not_match
+Line_424_did_not_match
+Line_425_did_not_match
+Line_426_did_not_match
+Line_427_did_not_match
+Line_428_did_not_match
+Line_429_did_not_match
+Line_430_did_not_match
+Line_431_did_not_match
+Line_432_did_not_match
+Line_433_did_not_match
+Line_434_did_not_match
+Line_435_did_not_match
+Line_436_did_not_match
+Line_437_did_not_match
+Line_438_did_not_match
+Line_439_did_not_match
+Line_440_did_not_match
+Line_441_did_not_match
+Line_442_did_not_match
+Line_443_did_not_match
+Line_444_did_not_match
+Line_445_did_not_match
+Line_446_did_not_match
+Line_447_did_not_match
+Line_448_did_not_match
+Line_449_did_not_match
+Line_450_did_not_match
+Line_451_did_not_match
+Line_452_did_not_match
+Line_453_did_not_match
+Line_454_did_not_match
+Line_455_did_not_match
+Line_456_did_not_match
+Line_457_did_not_match
+Line_458_did_not_match
+Line_459_did_not_match
+Line_460_did_not_match
+Line_461_did_not_match
+Line_462_did_not_match
+Line_463_did_not_match
+Line_464_did_not_match
+Line_465_did_not_match
+Line_466_did_not_match
+Line_467_did_not_match
+Line_468_did_not_match
+Line_469_did_not_match
+Line_470_did_not_match
+Line_471_did_not_match
+Line_472_did_not_match
+Line_473_did_not_match
+Line_474_did_not_match
+Line_475_did_not_match
+Line_476_did_not_match
+Line_477_did_not_match
+Line_478_did_not_match
+Line_479_did_not_match
+Line_480_did_not_match
+Line_481_did_not_match
+Line_482_did_not_match
+Line_483_did_not_match
+Line_484_did_not_match
+Line_485_did_not_match
+Line_486_did_not_match
+Line_487_did_not_match
+Line_488_did_not_match
+Line_489_did_not_match
+Line_490_did_not_match
+Line_491_did_not_match
+Line_492_did_not_match
+Line_493_did_not_match
+Line_494_did_not_match
+Line_495_did_not_match
+Line_496_did_not_match
+Line_497_did_not_match
+Line_498_did_not_match
+Line_499_did_not_match
+Line_500_did_not_match
+Line_501_did_not_match
+Line_502_did_not_match
+Line_503_did_not_match
+Line_504_did_not_match
+Line_505_did_not_match
+Line_506_did_not_match
+Line_507_did_not_match
+Line_508_did_not_match
+Line_509_did_not_match
+Line_510_did_not_match
+Line_511_did_not_match
+Line_512_did_not_match
+Line_513_did_not_match
+Line_514_did_not_match
+Line_515_did_not_match
+Line_516_did_not_match
+Line_517_did_not_match
+Line_518_did_not_match
+Line_519_did_not_match
+Line_520_did_not_match
+Line_521_did_not_match
+Line_522_did_not_match
+Line_523_did_not_match
+Line_524_did_not_match
+Line_525_did_not_match
+Line_526_did_not_match
+Line_527_did_not_match
+Line_528_did_not_match
+Line_529_did_not_match
+Line_530_did_not_match
+Line_531_did_not_match
+Line_532_did_not_match
+Line_533_did_not_match
+Line_534_did_not_match
+Line_535_did_not_match
+Line_536_did_not_match
+Line_537_did_not_match
+Line_538_did_not_match
+Line_539_did_not_match
+Line_540_did_not_match
+Line_541_did_not_match
+Line_542_did_not_match
+Line_543_did_not_match
+Line_544_did_not_match
+Line_545_did_not_match
+Line_546_did_not_match
+Line_547_did_not_match
+Line_548_did_not_match
+Line_549_did_not_match
+Line_550_did_not_match
+Line_551_did_not_match
+Line_552_did_not_match
+Line_553_did_not_match
+Line_554_did_not_match
+Line_555_did_not_match
+Line_556_did_not_match
+Line_557_did_not_match
+Line_558_did_not_match
+Line_559_did_not_match
+Line_560_did_not_match
+Line_561_did_not_match
+Line_562_did_not_match
+Line_563_did_not_match
+Line_564_did_not_match
+Line_565_did_not_match
+Line_566_did_not_match
+Line_567_did_not_match
+Line_568_did_not_match
+Line_569_did_not_match
+Line_570_did_not_match
+Line_571_did_not_match
+Line_572_did_not_match
+Line_573_did_not_match
+Line_574_did_not_match
+Line_575_did_not_match
+Line_576_did_not_match
+Line_577_did_not_match
+Line_578_did_not_match
+Line_579_did_not_match
+Line_580_did_not_match
+Line_581_did_not_match
+Line_582_did_not_match
+Line_583_did_not_match
+Line_584_did_not_match
+Line_585_did_not_match
+Line_586_did_not_match
+Line_587_did_not_match
+Line_588_did_not_match
+Line_589_did_not_match
+Line_590_did_not_match
+Line_591_did_not_match
+Line_592_did_not_match
+Line_593_did_not_match
+Line_594_did_not_match
+Line_595_did_not_match
+Line_596_did_not_match
+Line_597_did_not_match
+Line_598_did_not_match
+Line_599_did_not_match
+Line_600_did_not_match
+Line_601_did_not_match
+Line_602_did_not_match
+Line_603_did_not_match
+Line_604_did_not_match
+Line_605_did_not_match
+Line_606_did_not_match
+Line_607_did_not_match
+Line_608_did_not_match
+Line_609_did_not_match
+Line_610_did_not_match
+Line_611_did_not_match
+Line_612_did_not_match
+Line_613_did_not_match
+Line_614_did_not_match
+Line_615_did_not_match
+Line_616_did_not_match
+Line_617_did_not_match
+Line_618_did_not_match
+Line_619_did_not_match
+Line_620_did_not_match
+Line_621_did_not_match
+Line_622_did_not_match
+Line_623_did_not_match
+Line_624_did_not_match
+Line_625_did_not_match
+Line_626_did_not_match
+Line_627_did_not_match
+Line_628_did_not_match
+Line_629_did_not_match
+Line_630_did_not_match
+Line_631_did_not_match
+Line_632_did_not_match
+Line_633_did_not_match
+Line_634_did_not_match
+Line_635_did_not_match
+Line_636_did_not_match
+Line_637_did_not_match
+Line_638_did_not_match
+Line_639_did_not_match
+Line_640_did_not_match
+Line_641_did_not_match
+Line_642_did_not_match
+Line_643_did_not_match
+Line_644_did_not_match
+Line_645_did_not_match
+Line_646_did_not_match
+Line_647_did_not_match
+Line_648_did_not_match
+Line_649_did_not_match
+Line_650_did_not_match
+Line_651_did_not_match
+Line_652_did_not_match
+Line_653_did_not_match
+Line_654_did_not_match
+Line_655_did_not_match
+Line_656_did_not_match
+Line_657_did_not_match
+Line_658_did_not_match
+Line_659_did_not_match
+Line_660_did_not_match
+Line_661_did_not_match
+Line_662_did_not_match
+Line_663_did_not_match
+Line_664_did_not_match
+Line_665_did_not_match
+Line_666_did_not_match
+Line_667_did_not_match
+Line_668_did_not_match
+Line_669_did_not_match
+Line_670_did_not_match
+Line_671_did_not_match
+Line_672_did_not_match
+Line_673_did_not_match
+Line_674_did_not_match
+Line_675_did_not_match
+Line_676_did_not_match
+Line_677_did_not_match
+Line_678_did_not_match
+Line_679_did_not_match
+Line_680_did_not_match
+Line_681_did_not_match
+Line_682_did_not_match
+Line_683_did_not_match
+Line_684_did_not_match
+Line_685_did_not_match
+Line_686_did_not_match
+Line_687_did_not_match
+Line_688_did_not_match
+Line_689_did_not_match
+Line_690_did_not_match
+Line_691_did_not_match
+Line_692_did_not_match
+Line_693_did_not_match
+Line_694_did_not_match
+Line_695_did_not_match
+Line_696_did_not_match
+Line_697_did_not_match
+Line_698_did_not_match
+Line_699_did_not_match
+Line_700_did_not_match
+Line_701_did_not_match
+Line_702_did_not_match
+Line_703_did_not_match
+Line_704_did_not_match
+Line_705_did_not_match
+Line_706_did_not_match
+Line_707_did_not_match
+Line_708_did_not_match
+Line_709_did_not_match
+Line_710_did_not_match
+Line_711_did_not_match
+Line_712_did_not_match
+Line_713_did_not_match
+Line_714_did_not_match
+Line_715_did_not_match
+Line_716_did_not_match
+Line_717_did_not_match
+Line_718_did_not_match
+Line_719_did_not_match
+Line_720_did_not_match
+Line_721_did_not_match
+Line_722_did_not_match
+Line_723_did_not_match
+Line_724_did_not_match
+Line_725_did_not_match
+Line_726_did_not_match
+Line_727_did_not_match
+Line_728_did_not_match
+Line_729_did_not_match
+Line_730_did_not_match
+Line_731_did_not_match
+Line_732_did_not_match
+Line_733_did_not_match
+Line_734_did_not_match
+Line_735_did_not_match
+Line_736_did_not_match
+Line_737_did_not_match
+Line_738_did_not_match
+Line_739_did_not_match
+Line_740_did_not_match
+Line_741_did_not_match
+Line_742_did_not_match
+Line_743_did_not_match
+Line_744_did_not_match
+Line_745_did_not_match
+Line_746_did_not_match
+Line_747_did_not_match
+Line_748_did_not_match
+Line_749_did_not_match
+Line_750_did_not_match
+Line_751_did_not_match
+Line_752_did_not_match
+Line_753_did_not_match
+Line_754_did_not_match
+Line_755_did_not_match
+Line_756_did_not_match
+Line_757_did_not_match
+Line_758_did_not_match
+Line_759_did_not_match
+Line_760_did_not_match
+Line_761_did_not_match
+Line_762_did_not_match
+Line_763_did_not_match
+Line_764_did_not_match
+Line_765_did_not_match
+Line_766_did_not_match
+Line_767_did_not_match
+Line_768_did_not_match
+Line_769_did_not_match
+Line_770_did_not_match
+Line_771_did_not_match
+Line_772_did_not_match
+Line_773_did_not_match
+Line_774_did_not_match
+Line_775_did_not_match
+Line_776_did_not_match
+Line_777_did_not_match
+Line_778_did_not_match
+Line_779_did_not_match
+Line_780_did_not_match
+Line_781_did_not_match
+Line_782_did_not_match
+Line_783_did_not_match
+Line_784_did_not_match
+Line_785_did_not_match
+Line_786_did_not_match
+Line_787_did_not_match
+Line_788_did_not_match
+Line_789_did_not_match
+Line_790_did_not_match
+Line_791_did_not_match
+Line_792_did_not_match
+Line_793_did_not_match
+Line_794_did_not_match
+Line_795_did_not_match
+Line_796_did_not_match
+Line_797_did_not_match
+Line_798_did_not_match
+Line_799_did_not_match
+Line_800_did_not_match
+Line_801_did_not_match
+Line_802_did_not_match
+Line_803_did_not_match
+Line_804_did_not_match
+Line_805_did_not_match
+Line_806_did_not_match
+Line_807_did_not_match
+Line_808_did_not_match
+Line_809_did_not_match
+Line_810_did_not_match
+Line_811_did_not_match
+Line_812_did_not_match
+Line_813_did_not_match
+Line_814_did_not_match
+Line_815_did_not_match
+Line_816_did_not_match
+Line_817_did_not_match
+Line_818_did_not_match
+Line_819_did_not_match
+Line_820_did_not_match
+Line_821_did_not_match
+Line_822_did_not_match
+Line_823_did_not_match
+Line_824_did_not_match
+Line_825_did_not_match
+Line_826_did_not_match
+Line_827_did_not_match
+Line_828_did_not_match
+Line_829_did_not_match
+Line_830_did_not_match
+Line_831_did_not_match
+Line_832_did_not_match
+Line_833_did_not_match
+Line_834_did_not_match
+Line_835_did_not_match
+Line_836_did_not_match
+Line_837_did_not_match
+Line_838_did_not_match
+Line_839_did_not_match
+Line_840_did_not_match
+Line_841_did_not_match
+Line_842_did_not_match
+Line_843_did_not_match
+Line_844_did_not_match
+Line_845_did_not_match
+Line_846_did_not_match
+Line_847_did_not_match
+Line_848_did_not_match
+Line_849_did_not_match
+Line_850_did_not_match
+Line_851_did_not_match
+Line_852_did_not_match
+Line_853_did_not_match
+Line_854_did_not_match
+Line_855_did_not_match
+Line_856_did_not_match
+Line_857_did_not_match
+Line_858_did_not_match
+Line_859_did_not_match
+Line_860_did_not_match
+Line_861_did_not_match
+Line_862_did_not_match
+Line_863_did_not_match
+Line_864_did_not_match
+Line_865_did_not_match
+Line_866_did_not_match
+Line_867_did_not_match
+Line_868_did_not_match
+Line_869_did_not_match
+Line_870_did_not_match
+Line_871_did_not_match
+Line_872_did_not_match
+Line_873_did_not_match
 Your file did not match the expected ouput
 Your output did not match what we expected. Here is what you printed
-Age  27 months  4 you have $1080.04
-Age  54 months  8 you have $1004.05
-Age  27 months  3 you have $-3999.16
-Age  54 months  6 you have $-4003.33
-Age  81 months  9 you have $-4003.34
-Age 109 months  0 you have $-4003.34
-Age 136 months  3 you have $-4003.34
-Age 163 months  6 you have $-4003.34
-Age 190 months  9 you have $-4003.34
-Age 218 months  0 you have $-4003.34
-Age 245 months  3 you have $-4003.34
-Age 272 months  6 you have $-4003.34
-Age 299 months  9 you have $-4003.34
-Age 327 months  0 you have $-4003.34
-Age 354 months  3 you have $-4003.34
-Age 381 months  6 you have $-4003.34
-Age 408 months  9 you have $-4003.34
-Age 436 months  0 you have $-4003.34
-Age 463 months  3 you have $-4003.34
-Age 490 months  6 you have $-4003.34
-Age 517 months  9 you have $-4003.34
-Age 545 months  0 you have $-4003.34
-Age 572 months  3 you have $-4003.34
-Age 599 months  6 you have $-4003.34
-Age 626 months  9 you have $-4003.34
-Age 654 months  0 you have $-4003.34
-Age 681 months  3 you have $-4003.34
-Age 708 months  6 you have $-4003.34
-Age 735 months  9 you have $-4003.34
-Age 763 months  0 you have $-4003.34
-Age 790 months  3 you have $-4003.34
-Age 817 months  6 you have $-4003.34
-Age 844 months  9 you have $-4003.34
-Age 872 months  0 you have $-4003.34
-Age 899 months  3 you have $-4003.34
-Age 926 months  6 you have $-4003.34
-Age 953 months  9 you have $-4003.34
-Age 981 months  0 you have $-4003.34
-Age 1008 months  3 you have $-4003.34
-Age 1035 months  6 you have $-4003.34
-Age 1062 months  9 you have $-4003.34
-Age 1090 months  0 you have $-4003.34
-Age 1117 months  3 you have $-4003.34
-Age 1144 months  6 you have $-4003.34
-Age 1171 months  9 you have $-4003.34
-Age 1199 months  0 you have $-4003.34
-Age 1226 months  3 you have $-4003.34
-Age 1253 months  6 you have $-4003.34
-Age 1280 months  9 you have $-4003.34
-Age 1308 months  0 you have $-4003.34
-Age 1335 months  3 you have $-4003.34
-Age 1362 months  6 you have $-4003.34
-Age 1389 months  9 you have $-4003.34
-Age 1417 months  0 you have $-4003.34
-Age 1444 months  3 you have $-4003.34
-Age 1471 months  6 you have $-4003.34
-Age 1498 months  9 you have $-4003.34
-Age 1526 months  0 you have $-4003.34
-Age 1553 months  3 you have $-4003.34
-Age 1580 months  6 you have $-4003.34
-Age 1607 months  9 you have $-4003.34
-Age 1635 months  0 you have $-4003.34
-Age 1662 months  3 you have $-4003.34
-Age 1689 months  6 you have $-4003.34
-Age 1716 months  9 you have $-4003.34
-Age 1744 months  0 you have $-4003.34
-Age 1771 months  3 you have $-4003.34
-Age 1798 months  6 you have $-4003.34
-Age 1825 months  9 you have $-4003.34
-Age 1853 months  0 you have $-4003.34
-Age 1880 months  3 you have $-4003.34
-Age 1907 months  6 you have $-4003.34
-Age 1934 months  9 you have $-4003.34
-Age 1962 months  0 you have $-4003.34
-Age 1989 months  3 you have $-4003.34
-Age 2016 months  6 you have $-4003.34
-Age 2043 months  9 you have $-4003.34
-Age 2071 months  0 you have $-4003.34
-Age 2098 months  3 you have $-4003.34
-Age 2125 months  6 you have $-4003.34
-Age 2152 months  9 you have $-4003.34
-Age 2180 months  0 you have $-4003.34
-Age 2207 months  3 you have $-4003.34
-Age 2234 months  6 you have $-4003.34
-Age 2261 months  9 you have $-4003.34
-Age 2289 months  0 you have $-4003.34
-Age 2316 months  3 you have $-4003.34
-Age 2343 months  6 you have $-4003.34
-Age 2370 months  9 you have $-4003.34
-Age 2398 months  0 you have $-4003.34
-Age 2425 months  3 you have $-4003.34
-Age 2452 months  6 you have $-4003.34
-Age 2479 months  9 you have $-4003.34
-Age 2507 months  0 you have $-4003.34
-Age 2534 months  3 you have $-4003.34
-Age 2561 months  6 you have $-4003.34
-Age 2588 months  9 you have $-4003.34
-Age 2616 months  0 you have $-4003.34
-Age 2643 months  3 you have $-4003.34
-Age 2670 months  6 you have $-4003.34
-Age 2697 months  9 you have $-4003.34
-Age 2725 months  0 you have $-4003.34
-Age 2752 months  3 you have $-4003.34
-Age 2779 months  6 you have $-4003.34
-Age 2806 months  9 you have $-4003.34
-Age 2834 months  0 you have $-4003.34
-Age 2861 months  3 you have $-4003.34
-Age 2888 months  6 you have $-4003.34
-Age 2915 months  9 you have $-4003.34
-Age 2943 months  0 you have $-4003.34
-Age 2970 months  3 you have $-4003.34
-Age 2997 months  6 you have $-4003.34
-Age 3024 months  9 you have $-4003.34
-Age 3052 months  0 you have $-4003.34
-Age 3079 months  3 you have $-4003.34
-Age 3106 months  6 you have $-4003.34
-Age 3133 months  9 you have $-4003.34
-Age 3161 months  0 you have $-4003.34
-Age 3188 months  3 you have $-4003.34
-Age 3215 months  6 you have $-4003.34
-Age 3242 months  9 you have $-4003.34
-Age 3270 months  0 you have $-4003.34
-Age 3297 months  3 you have $-4003.34
-Age 3324 months  6 you have $-4003.34
-Age 3351 months  9 you have $-4003.34
-Age 3379 months  0 you have $-4003.34
-Age 3406 months  3 you have $-4003.34
-Age 3433 months  6 you have $-4003.34
-Age 3460 months  9 you have $-4003.34
-Age 3488 months  0 you have $-4003.34
-Age 3515 months  3 you have $-4003.34
-Age 3542 months  6 you have $-4003.34
-Age 3569 months  9 you have $-4003.34
-Age 3597 months  0 you have $-4003.34
-Age 3624 months  3 you have $-4003.34
-Age 3651 months  6 you have $-4003.34
-Age 3678 months  9 you have $-4003.34
-Age 3706 months  0 you have $-4003.34
-Age 3733 months  3 you have $-4003.34
-Age 3760 months  6 you have $-4003.34
-Age 3787 months  9 you have $-4003.34
-Age 3815 months  0 you have $-4003.34
-Age 3842 months  3 you have $-4003.34
-Age 3869 months  6 you have $-4003.34
-Age 3896 months  9 you have $-4003.34
-Age 3924 months  0 you have $-4003.34
-Age 3951 months  3 you have $-4003.34
-Age 3978 months  6 you have $-4003.34
-Age 4005 months  9 you have $-4003.34
-Age 4033 months  0 you have $-4003.34
-Age 4060 months  3 you have $-4003.34
-Age 4087 months  6 you have $-4003.34
-Age 4114 months  9 you have $-4003.34
-Age 4142 months  0 you have $-4003.34
-Age 4169 months  3 you have $-4003.34
-Age 4196 months  6 you have $-4003.34
-Age 4223 months  9 you have $-4003.34
-Age 4251 months  0 you have $-4003.34
-Age 4278 months  3 you have $-4003.34
-Age 4305 months  6 you have $-4003.34
-Age 4332 months  9 you have $-4003.34
-Age 4360 months  0 you have $-4003.34
-Age 4387 months  3 you have $-4003.34
-Age 4414 months  6 you have $-4003.34
-Age 4441 months  9 you have $-4003.34
-Age 4469 months  0 you have $-4003.34
-Age 4496 months  3 you have $-4003.34
-Age 4523 months  6 you have $-4003.34
-Age 4550 months  9 you have $-4003.34
-Age 4578 months  0 you have $-4003.34
-Age 4605 months  3 you have $-4003.34
-Age 4632 months  6 you have $-4003.34
-Age 4659 months  9 you have $-4003.34
-Age 4687 months  0 you have $-4003.34
-Age 4714 months  3 you have $-4003.34
-Age 4741 months  6 you have $-4003.34
-Age 4768 months  9 you have $-4003.34
-Age 4796 months  0 you have $-4003.34
-Age 4823 months  3 you have $-4003.34
-Age 4850 months  6 you have $-4003.34
-Age 4877 months  9 you have $-4003.34
-Age 4905 months  0 you have $-4003.34
-Age 4932 months  3 you have $-4003.34
-Age 4959 months  6 you have $-4003.34
-Age 4986 months  9 you have $-4003.34
-Age 5014 months  0 you have $-4003.34
-Age 5041 months  3 you have $-4003.34
-Age 5068 months  6 you have $-4003.34
-Age 5095 months  9 you have $-4003.34
-Age 5123 months  0 you have $-4003.34
-Age 5150 months  3 you have $-4003.34
-Age 5177 months  6 you have $-4003.34
-Age 5204 months  9 you have $-4003.34
-Age 5232 months  0 you have $-4003.34
-Age 5259 months  3 you have $-4003.34
-Age 5286 months  6 you have $-4003.34
-Age 5313 months  9 you have $-4003.34
-Age 5341 months  0 you have $-4003.34
-Age 5368 months  3 you have $-4003.34
-Age 5395 months  6 you have $-4003.34
-Age 5422 months  9 you have $-4003.34
-Age 5450 months  0 you have $-4003.34
-Age 5477 months  3 you have $-4003.34
-Age 5504 months  6 you have $-4003.34
-Age 5531 months  9 you have $-4003.34
-Age 5559 months  0 you have $-4003.34
-Age 5586 months  3 you have $-4003.34
-Age 5613 months  6 you have $-4003.34
-Age 5640 months  9 you have $-4003.34
-Age 5668 months  0 you have $-4003.34
-Age 5695 months  3 you have $-4003.34
-Age 5722 months  6 you have $-4003.34
-Age 5749 months  9 you have $-4003.34
-Age 5777 months  0 you have $-4003.34
-Age 5804 months  3 you have $-4003.34
-Age 5831 months  6 you have $-4003.34
-Age 5858 months  9 you have $-4003.34
-Age 5886 months  0 you have $-4003.34
-Age 5913 months  3 you have $-4003.34
+Age   0 months  1 you have $1080.04
+Age   0 months  2 you have $1004.05
+Age   0 months  3 you have $1003.77
+Age   0 months  4 you have $1003.76
+Age   0 months  5 you have $1003.76
+Age   0 months  6 you have $1003.76
+Age   0 months  7 you have $1003.76
+Age   0 months  8 you have $1003.76
+Age   0 months  9 you have $1003.76
+Age   0 months 10 you have $1003.76
+Age   0 months 11 you have $1003.76
+Age   1 months  0 you have $1003.76
+Age   1 months  1 you have $1003.76
+Age   1 months  2 you have $1003.76
+Age   1 months  3 you have $1003.76
+Age   1 months  4 you have $1003.76
+Age   1 months  5 you have $1003.76
+Age   1 months  6 you have $1003.76
+Age   1 months  7 you have $1003.76
+Age   1 months  8 you have $1003.76
+Age   1 months  9 you have $1003.76
+Age   1 months 10 you have $1003.76
+Age   1 months 11 you have $1003.76
+Age   2 months  0 you have $1003.76
+Age   2 months  1 you have $1003.76
+Age   2 months  2 you have $1003.76
+Age   2 months  3 you have $1003.76
+Age   2 months  4 you have $1003.76
+Age   2 months  5 you have $1003.76
+Age   2 months  6 you have $1003.76
+Age   2 months  7 you have $1003.76
+Age   2 months  8 you have $1003.76
+Age   2 months  9 you have $1003.76
+Age   2 months 10 you have $1003.76
+Age   2 months 11 you have $1003.76
+Age   3 months  0 you have $1003.76
+Age   3 months  1 you have $1003.76
+Age   3 months  2 you have $1003.76
+Age   3 months  3 you have $1003.76
+Age   3 months  4 you have $1003.76
+Age   3 months  5 you have $1003.76
+Age   3 months  6 you have $1003.76
+Age   3 months  7 you have $1003.76
+Age   3 months  8 you have $1003.76
+Age   3 months  9 you have $1003.76
+Age   3 months 10 you have $1003.76
+Age   3 months 11 you have $1003.76
+Age   4 months  0 you have $1003.76
+Age   4 months  1 you have $1003.76
+Age   4 months  2 you have $1003.76
+Age   4 months  3 you have $1003.76
+Age   4 months  4 you have $1003.76
+Age   4 months  5 you have $1003.76
+Age   4 months  6 you have $1003.76
+Age   4 months  7 you have $1003.76
+Age   4 months  8 you have $1003.76
+Age   4 months  9 you have $1003.76
+Age   4 months 10 you have $1003.76
+Age   4 months 11 you have $1003.76
+Age   5 months  0 you have $1003.76
+Age   5 months  1 you have $1003.76
+Age   5 months  2 you have $1003.76
+Age   5 months  3 you have $1003.76
+Age   5 months  4 you have $1003.76
+Age   5 months  5 you have $1003.76
+Age   5 months  6 you have $1003.76
+Age   5 months  7 you have $1003.76
+Age   5 months  8 you have $1003.76
+Age   5 months  9 you have $1003.76
+Age   5 months 10 you have $1003.76
+Age   5 months 11 you have $1003.76
+Age   6 months  0 you have $1003.76
+Age   6 months  1 you have $1003.76
+Age   6 months  2 you have $1003.76
+Age   6 months  3 you have $1003.76
+Age   6 months  4 you have $1003.76
+Age   6 months  5 you have $1003.76
+Age   6 months  6 you have $1003.76
+Age   6 months  7 you have $1003.76
+Age   6 months  8 you have $1003.76
+Age   6 months  9 you have $1003.76
+Age   6 months 10 you have $1003.76
+Age   6 months 11 you have $1003.76
+Age   7 months  0 you have $1003.76
+Age   7 months  1 you have $1003.76
+Age   7 months  2 you have $1003.76
+Age   7 months  3 you have $1003.76
+Age   7 months  4 you have $1003.76
+Age   7 months  5 you have $1003.76
+Age   7 months  6 you have $1003.76
+Age   7 months  7 you have $1003.76
+Age   7 months  8 you have $1003.76
+Age   7 months  9 you have $1003.76
+Age   7 months 10 you have $1003.76
+Age   7 months 11 you have $1003.76
+Age   8 months  0 you have $1003.76
+Age   8 months  1 you have $1003.76
+Age   8 months  2 you have $1003.76
+Age   8 months  3 you have $1003.76
+Age   8 months  4 you have $1003.76
+Age   8 months  5 you have $1003.76
+Age   8 months  6 you have $1003.76
+Age   8 months  7 you have $1003.76
+Age   8 months  8 you have $1003.76
+Age   8 months  9 you have $1003.76
+Age   8 months 10 you have $1003.76
+Age   8 months 11 you have $1003.76
+Age   9 months  0 you have $1003.76
+Age   9 months  1 you have $1003.76
+Age   9 months  2 you have $1003.76
+Age   9 months  3 you have $1003.76
+Age   9 months  4 you have $1003.76
+Age   9 months  5 you have $1003.76
+Age   9 months  6 you have $1003.76
+Age   9 months  7 you have $1003.76
+Age   9 months  8 you have $1003.76
+Age   9 months  9 you have $1003.76
+Age   9 months 10 you have $1003.76
+Age   9 months 11 you have $1003.76
+Age  10 months  0 you have $1003.76
+Age  10 months  1 you have $1003.76
+Age  10 months  2 you have $1003.76
+Age  10 months  3 you have $1003.76
+Age  10 months  4 you have $1003.76
+Age  10 months  5 you have $1003.76
+Age  10 months  6 you have $1003.76
+Age  10 months  7 you have $1003.76
+Age  10 months  8 you have $1003.76
+Age  10 months  9 you have $1003.76
+Age  10 months 10 you have $1003.76
+Age  10 months 11 you have $1003.76
+Age  11 months  0 you have $1003.76
+Age  11 months  1 you have $1003.76
+Age  11 months  2 you have $1003.76
+Age  11 months  3 you have $1003.76
+Age  11 months  4 you have $1003.76
+Age  11 months  5 you have $1003.76
+Age  11 months  6 you have $1003.76
+Age  11 months  7 you have $1003.76
+Age  11 months  8 you have $1003.76
+Age  11 months  9 you have $1003.76
+Age  11 months 10 you have $1003.76
+Age  11 months 11 you have $1003.76
+Age  12 months  0 you have $1003.76
+Age  12 months  1 you have $1003.76
+Age  12 months  2 you have $1003.76
+Age  12 months  3 you have $1003.76
+Age  12 months  4 you have $1003.76
+Age  12 months  5 you have $1003.76
+Age  12 months  6 you have $1003.76
+Age  12 months  7 you have $1003.76
+Age  12 months  8 you have $1003.76
+Age  12 months  9 you have $1003.76
+Age  12 months 10 you have $1003.76
+Age  12 months 11 you have $1003.76
+Age  13 months  0 you have $1003.76
+Age  13 months  1 you have $1003.76
+Age  13 months  2 you have $1003.76
+Age  13 months  3 you have $1003.76
+Age  13 months  4 you have $1003.76
+Age  13 months  5 you have $1003.76
+Age  13 months  6 you have $1003.76
+Age  13 months  7 you have $1003.76
+Age  13 months  8 you have $1003.76
+Age  13 months  9 you have $1003.76
+Age  13 months 10 you have $1003.76
+Age  13 months 11 you have $1003.76
+Age  14 months  0 you have $1003.76
+Age  14 months  1 you have $1003.76
+Age  14 months  2 you have $1003.76
+Age  14 months  3 you have $1003.76
+Age  14 months  4 you have $1003.76
+Age  14 months  5 you have $1003.76
+Age  14 months  6 you have $1003.76
+Age  14 months  7 you have $1003.76
+Age  14 months  8 you have $1003.76
+Age  14 months  9 you have $1003.76
+Age  14 months 10 you have $1003.76
+Age  14 months 11 you have $1003.76
+Age  15 months  0 you have $1003.76
+Age  15 months  1 you have $1003.76
+Age  15 months  2 you have $1003.76
+Age  15 months  3 you have $1003.76
+Age  15 months  4 you have $1003.76
+Age  15 months  5 you have $1003.76
+Age  15 months  6 you have $1003.76
+Age  15 months  7 you have $1003.76
+Age  15 months  8 you have $1003.76
+Age  15 months  9 you have $1003.76
+Age  15 months 10 you have $1003.76
+Age  15 months 11 you have $1003.76
+Age  16 months  0 you have $1003.76
+Age  16 months  1 you have $1003.76
+Age  16 months  2 you have $1003.76
+Age  16 months  3 you have $1003.76
+Age  16 months  4 you have $1003.76
+Age  16 months  5 you have $1003.76
+Age  16 months  6 you have $1003.76
+Age  16 months  7 you have $1003.76
+Age  16 months  8 you have $1003.76
+Age  16 months  9 you have $1003.76
+Age  16 months 10 you have $1003.76
+Age  16 months 11 you have $1003.76
+Age  17 months  0 you have $1003.76
+Age  17 months  1 you have $1003.76
+Age  17 months  2 you have $1003.76
+Age  17 months  3 you have $1003.76
+Age  17 months  4 you have $1003.76
+Age  17 months  5 you have $1003.76
+Age  17 months  6 you have $1003.76
+Age  17 months  7 you have $1003.76
+Age  17 months  8 you have $1003.76
+Age  17 months  9 you have $1003.76
+Age  17 months 10 you have $1003.76
+Age  17 months 11 you have $1003.76
+Age  18 months  0 you have $1003.76
+Age  18 months  1 you have $1003.76
+Age  18 months  2 you have $1003.76
+Age  18 months  3 you have $1003.76
+Age  18 months  4 you have $1003.76
+Age  18 months  5 you have $1003.76
+Age  18 months  6 you have $1003.76
+Age  18 months  7 you have $1003.76
+Age  18 months  8 you have $1003.76
+Age  18 months  9 you have $1003.76
+Age  18 months 10 you have $1003.76
+Age  18 months 11 you have $1003.76
+Age  19 months  0 you have $1003.76
+Age  19 months  1 you have $1003.76
+Age  19 months  2 you have $1003.76
+Age  19 months  3 you have $1003.76
+Age  19 months  4 you have $1003.76
+Age  19 months  5 you have $1003.76
+Age  19 months  6 you have $1003.76
+Age  19 months  7 you have $1003.76
+Age  19 months  8 you have $1003.76
+Age  19 months  9 you have $1003.76
+Age  19 months 10 you have $1003.76
+Age  19 months 11 you have $1003.76
+Age  20 months  0 you have $1003.76
+Age  20 months  1 you have $1003.76
+Age  20 months  2 you have $1003.76
+Age  20 months  3 you have $1003.76
+Age  20 months  4 you have $1003.76
+Age  20 months  5 you have $1003.76
+Age  20 months  6 you have $1003.76
+Age  20 months  7 you have $1003.76
+Age  20 months  8 you have $1003.76
+Age  20 months  9 you have $1003.76
+Age  20 months 10 you have $1003.76
+Age  20 months 11 you have $1003.76
+Age  21 months  0 you have $1003.76
+Age  21 months  1 you have $1003.76
+Age  21 months  2 you have $1003.76
+Age  21 months  3 you have $1003.76
+Age  21 months  4 you have $1003.76
+Age  21 months  5 you have $1003.76
+Age  21 months  6 you have $1003.76
+Age  21 months  7 you have $1003.76
+Age  21 months  8 you have $1003.76
+Age  21 months  9 you have $1003.76
+Age  21 months 10 you have $1003.76
+Age  21 months 11 you have $1003.76
+Age  22 months  0 you have $1003.76
+Age  22 months  1 you have $1003.76
+Age  22 months  2 you have $1003.76
+Age  22 months  3 you have $1003.76
+Age  22 months  4 you have $1003.76
+Age  22 months  5 you have $1003.76
+Age  22 months  6 you have $1003.76
+Age  22 months  7 you have $1003.76
+Age  22 months  8 you have $1003.76
+Age  22 months  9 you have $1003.76
+Age  22 months 10 you have $1003.76
+Age  22 months 11 you have $1003.76
+Age  23 months  0 you have $1003.76
+Age  23 months  1 you have $1003.76
+Age  23 months  2 you have $1003.76
+Age  23 months  3 you have $1003.76
+Age  23 months  4 you have $1003.76
+Age  23 months  5 you have $1003.76
+Age  23 months  6 you have $1003.76
+Age  23 months  7 you have $1003.76
+Age  23 months  8 you have $1003.76
+Age  23 months  9 you have $1003.76
+Age  23 months 10 you have $1003.76
+Age  23 months 11 you have $1003.76
+Age  24 months  0 you have $1003.76
+Age  24 months  1 you have $1003.76
+Age  24 months  2 you have $1003.76
+Age  24 months  3 you have $1003.76
+Age  24 months  4 you have $1003.76
+Age  24 months  5 you have $1003.76
+Age  24 months  6 you have $1003.76
+Age  24 months  7 you have $1003.76
+Age  24 months  8 you have $1003.76
+Age  24 months  9 you have $1003.76
+Age  24 months 10 you have $1003.76
+Age  24 months 11 you have $1003.76
+Age  25 months  0 you have $1003.76
+Age  25 months  1 you have $1003.76
+Age  25 months  2 you have $1003.76
+Age  25 months  3 you have $1003.76
+Age  25 months  4 you have $1003.76
+Age  25 months  5 you have $1003.76
+Age  25 months  6 you have $1003.76
+Age  25 months  7 you have $1003.76
+Age  25 months  8 you have $1003.76
+Age  25 months  9 you have $1003.76
+Age  25 months 10 you have $1003.76
+Age  25 months 11 you have $1003.76
+Age  26 months  0 you have $1003.76
+Age  26 months  1 you have $1003.76
+Age  26 months  2 you have $1003.76
+Age  26 months  3 you have $1003.76
+Age  26 months  4 you have $1003.76
+Age  26 months  5 you have $1003.76
+Age  26 months  6 you have $1003.76
+Age  26 months  7 you have $1003.76
+Age  26 months  8 you have $1003.76
+Age  26 months  9 you have $1003.76
+Age  26 months 10 you have $1003.76
+Age  26 months 11 you have $1003.76
+Age  27 months  0 you have $1003.76
+Age  27 months  1 you have $1003.76
+Age  27 months  2 you have $1003.76
+Age  27 months  3 you have $1003.76
+Age  27 months  4 you have $1003.76
+Age  27 months  5 you have $1003.76
+Age  27 months  6 you have $1003.76
+Age  27 months  7 you have $1003.76
+Age  27 months  8 you have $1003.76
+Age  27 months  9 you have $1003.76
+Age  27 months 10 you have $1003.76
+Age  27 months 11 you have $1003.76
+Age  28 months  0 you have $1003.76
+Age  28 months  1 you have $1003.76
+Age  28 months  2 you have $1003.76
+Age  28 months  3 you have $1003.76
+Age  28 months  4 you have $1003.76
+Age  28 months  5 you have $1003.76
+Age  28 months  6 you have $1003.76
+Age  28 months  7 you have $1003.76
+Age  28 months  8 you have $1003.76
+Age  28 months  9 you have $1003.76
+Age  28 months 10 you have $1003.76
+Age  28 months 11 you have $1003.76
+Age  29 months  0 you have $1003.76
+Age  29 months  1 you have $1003.76
+Age  29 months  2 you have $1003.76
+Age  29 months  3 you have $1003.76
+Age  29 months  4 you have $1003.76
+Age  29 months  5 you have $1003.76
+Age  29 months  6 you have $1003.76
+Age  29 months  7 you have $1003.76
+Age  29 months  8 you have $1003.76
+Age  29 months  9 you have $1003.76
+Age  29 months 10 you have $1003.76
+Age  29 months 11 you have $1003.76
+Age  30 months  0 you have $1003.76
+Age  30 months  1 you have $1003.76
+Age  30 months  2 you have $1003.76
+Age  30 months  3 you have $1003.76
+Age  30 months  4 you have $1003.76
+Age  30 months  5 you have $1003.76
+Age  30 months  6 you have $1003.76
+Age  30 months  7 you have $1003.76
+Age  30 months  8 you have $1003.76
+Age  30 months  9 you have $1003.76
+Age  30 months 10 you have $1003.76
+Age  30 months 11 you have $1003.76
+Age  31 months  0 you have $1003.76
+Age  31 months  1 you have $1003.76
+Age  31 months  2 you have $1003.76
+Age  31 months  3 you have $1003.76
+Age  31 months  4 you have $1003.76
+Age  31 months  5 you have $1003.76
+Age  31 months  6 you have $1003.76
+Age  31 months  7 you have $1003.76
+Age  31 months  8 you have $1003.76
+Age  31 months  9 you have $1003.76
+Age  31 months 10 you have $1003.76
+Age  31 months 11 you have $1003.76
+Age  32 months  0 you have $1003.76
+Age  32 months  1 you have $1003.76
+Age  32 months  2 you have $1003.76
+Age  32 months  3 you have $1003.76
+Age  32 months  4 you have $1003.76
+Age  32 months  5 you have $1003.76
+Age  32 months  6 you have $1003.76
+Age  32 months  7 you have $1003.76
+Age  32 months  8 you have $1003.76
+Age  32 months  9 you have $1003.76
+Age  32 months 10 you have $1003.76
+Age  32 months 11 you have $1003.76
+Age  33 months  0 you have $1003.76
+Age  33 months  1 you have $1003.76
+Age  33 months  2 you have $1003.76
+Age  33 months  3 you have $1003.76
+Age  33 months  4 you have $1003.76
+Age  33 months  5 you have $1003.76
+Age  33 months  6 you have $1003.76
+Age  33 months  7 you have $1003.76
+Age  33 months  8 you have $1003.76
+Age  33 months  9 you have $1003.76
+Age  33 months 10 you have $1003.76
+Age  33 months 11 you have $1003.76
+Age  34 months  0 you have $1003.76
+Age  34 months  1 you have $1003.76
+Age  34 months  2 you have $1003.76
+Age  34 months  3 you have $1003.76
+Age  34 months  4 you have $1003.76
+Age  34 months  5 you have $1003.76
+Age  34 months  6 you have $1003.76
+Age  34 months  7 you have $1003.76
+Age  34 months  8 you have $1003.76
+Age  34 months  9 you have $1003.76
+Age  34 months 10 you have $1003.76
+Age  34 months 11 you have $1003.76
+Age  35 months  0 you have $1003.76
+Age  35 months  1 you have $1003.76
+Age  35 months  2 you have $1003.76
+Age  35 months  3 you have $1003.76
+Age  35 months  4 you have $1003.76
+Age  35 months  5 you have $1003.76
+Age  35 months  6 you have $1003.76
+Age  35 months  7 you have $1003.76
+Age  35 months  8 you have $1003.76
+Age  35 months  9 you have $1003.76
+Age  35 months 10 you have $1003.76
+Age  35 months 11 you have $1003.76
+Age  36 months  0 you have $1003.76
+Age  36 months  1 you have $1003.76
+Age  36 months  2 you have $1003.76
+Age  36 months  3 you have $1003.76
+Age  36 months  4 you have $1003.76
+Age  36 months  5 you have $1003.76
+Age  36 months  6 you have $1003.76
+Age  36 months  7 you have $1003.76
+Age  36 months  8 you have $1003.76
+Age  36 months  9 you have $1003.76
+Age  36 months 10 you have $1003.76
+Age  36 months 11 you have $1003.76
+Age  37 months  0 you have $1003.76
+Age  37 months  1 you have $1003.76
+Age  37 months  2 you have $1003.76
+Age  37 months  3 you have $1003.76
+Age  37 months  4 you have $1003.76
+Age  37 months  5 you have $1003.76
+Age  37 months  6 you have $1003.76
+Age  37 months  7 you have $1003.76
+Age  37 months  8 you have $1003.76
+Age  37 months  9 you have $1003.76
+Age  37 months 10 you have $1003.76
+Age  37 months 11 you have $1003.76
+Age  38 months  0 you have $1003.76
+Age  38 months  1 you have $1003.76
+Age  38 months  2 you have $1003.76
+Age  38 months  3 you have $1003.76
+Age  38 months  4 you have $1003.76
+Age  38 months  5 you have $1003.76
+Age  38 months  6 you have $1003.76
+Age  38 months  7 you have $1003.76
+Age  38 months  8 you have $1003.76
+Age  38 months  9 you have $1003.76
+Age  38 months 10 you have $1003.76
+Age  38 months 11 you have $1003.76
+Age  39 months  0 you have $1003.76
+Age  39 months  1 you have $1003.76
+Age  39 months  2 you have $1003.76
+Age  39 months  3 you have $1003.76
+Age  39 months  4 you have $1003.76
+Age  39 months  5 you have $1003.76
+Age  39 months  6 you have $1003.76
+Age  39 months  7 you have $1003.76
+Age  39 months  8 you have $1003.76
+Age  39 months  9 you have $1003.76
+Age  39 months 10 you have $1003.76
+Age  39 months 11 you have $1003.76
+Age  40 months  0 you have $1003.76
+Age  40 months  1 you have $1003.76
+Age  40 months  2 you have $1003.76
+Age  40 months  3 you have $1003.76
+Age  40 months  4 you have $-3999.16
+Age  40 months  5 you have $-4003.33
+Age  40 months  6 you have $-4003.34
+Age  40 months  7 you have $-4003.34
+Age  40 months  8 you have $-4003.34
+Age  40 months  9 you have $-4003.34
+Age  40 months 10 you have $-4003.34
+Age  40 months 11 you have $-4003.34
+Age  41 months  0 you have $-4003.34
+Age  41 months  1 you have $-4003.34
+Age  41 months  2 you have $-4003.34
+Age  41 months  3 you have $-4003.34
+Age  41 months  4 you have $-4003.34
+Age  41 months  5 you have $-4003.34
+Age  41 months  6 you have $-4003.34
+Age  41 months  7 you have $-4003.34
+Age  41 months  8 you have $-4003.34
+Age  41 months  9 you have $-4003.34
+Age  41 months 10 you have $-4003.34
+Age  41 months 11 you have $-4003.34
+Age  42 months  0 you have $-4003.34
+Age  42 months  1 you have $-4003.34
+Age  42 months  2 you have $-4003.34
+Age  42 months  3 you have $-4003.34
+Age  42 months  4 you have $-4003.34
+Age  42 months  5 you have $-4003.34
+Age  42 months  6 you have $-4003.34
+Age  42 months  7 you have $-4003.34
+Age  42 months  8 you have $-4003.34
+Age  42 months  9 you have $-4003.34
+Age  42 months 10 you have $-4003.34
+Age  42 months 11 you have $-4003.34
+Age  43 months  0 you have $-4003.34
+Age  43 months  1 you have $-4003.34
+Age  43 months  2 you have $-4003.34
+Age  43 months  3 you have $-4003.34
+Age  43 months  4 you have $-4003.34
+Age  43 months  5 you have $-4003.34
+Age  43 months  6 you have $-4003.34
+Age  43 months  7 you have $-4003.34
+Age  43 months  8 you have $-4003.34
+Age  43 months  9 you have $-4003.34
+Age  43 months 10 you have $-4003.34
+Age  43 months 11 you have $-4003.34
+Age  44 months  0 you have $-4003.34
+Age  44 months  1 you have $-4003.34
+Age  44 months  2 you have $-4003.34
+Age  44 months  3 you have $-4003.34
+Age  44 months  4 you have $-4003.34
+Age  44 months  5 you have $-4003.34
+Age  44 months  6 you have $-4003.34
+Age  44 months  7 you have $-4003.34
+Age  44 months  8 you have $-4003.34
+Age  44 months  9 you have $-4003.34
+Age  44 months 10 you have $-4003.34
+Age  44 months 11 you have $-4003.34
+Age  45 months  0 you have $-4003.34
+Age  45 months  1 you have $-4003.34
+Age  45 months  2 you have $-4003.34
+Age  45 months  3 you have $-4003.34
+Age  45 months  4 you have $-4003.34
+Age  45 months  5 you have $-4003.34
+Age  45 months  6 you have $-4003.34
+Age  45 months  7 you have $-4003.34
+Age  45 months  8 you have $-4003.34
+Age  45 months  9 you have $-4003.34
+Age  45 months 10 you have $-4003.34
+Age  45 months 11 you have $-4003.34
+Age  46 months  0 you have $-4003.34
+Age  46 months  1 you have $-4003.34
+Age  46 months  2 you have $-4003.34
+Age  46 months  3 you have $-4003.34
+Age  46 months  4 you have $-4003.34
+Age  46 months  5 you have $-4003.34
+Age  46 months  6 you have $-4003.34
+Age  46 months  7 you have $-4003.34
+Age  46 months  8 you have $-4003.34
+Age  46 months  9 you have $-4003.34
+Age  46 months 10 you have $-4003.34
+Age  46 months 11 you have $-4003.34
+Age  47 months  0 you have $-4003.34
+Age  47 months  1 you have $-4003.34
+Age  47 months  2 you have $-4003.34
+Age  47 months  3 you have $-4003.34
+Age  47 months  4 you have $-4003.34
+Age  47 months  5 you have $-4003.34
+Age  47 months  6 you have $-4003.34
+Age  47 months  7 you have $-4003.34
+Age  47 months  8 you have $-4003.34
+Age  47 months  9 you have $-4003.34
+Age  47 months 10 you have $-4003.34
+Age  47 months 11 you have $-4003.34
+Age  48 months  0 you have $-4003.34
+Age  48 months  1 you have $-4003.34
+Age  48 months  2 you have $-4003.34
+Age  48 months  3 you have $-4003.34
+Age  48 months  4 you have $-4003.34
+Age  48 months  5 you have $-4003.34
+Age  48 months  6 you have $-4003.34
+Age  48 months  7 you have $-4003.34
+Age  48 months  8 you have $-4003.34
+Age  48 months  9 you have $-4003.34
+Age  48 months 10 you have $-4003.34
+Age  48 months 11 you have $-4003.34
+Age  49 months  0 you have $-4003.34
+Age  49 months  1 you have $-4003.34
+Age  49 months  2 you have $-4003.34
+Age  49 months  3 you have $-4003.34
+Age  49 months  4 you have $-4003.34
+Age  49 months  5 you have $-4003.34
+Age  49 months  6 you have $-4003.34
+Age  49 months  7 you have $-4003.34
+Age  49 months  8 you have $-4003.34
+Age  49 months  9 you have $-4003.34
+Age  49 months 10 you have $-4003.34
+Age  49 months 11 you have $-4003.34
+Age  50 months  0 you have $-4003.34
+Age  50 months  1 you have $-4003.34
+Age  50 months  2 you have $-4003.34
+Age  50 months  3 you have $-4003.34
+Age  50 months  4 you have $-4003.34
+Age  50 months  5 you have $-4003.34
+Age  50 months  6 you have $-4003.34
+Age  50 months  7 you have $-4003.34
+Age  50 months  8 you have $-4003.34
+Age  50 months  9 you have $-4003.34
+Age  50 months 10 you have $-4003.34
+Age  50 months 11 you have $-4003.34
+Age  51 months  0 you have $-4003.34
+Age  51 months  1 you have $-4003.34
+Age  51 months  2 you have $-4003.34
+Age  51 months  3 you have $-4003.34
+Age  51 months  4 you have $-4003.34
+Age  51 months  5 you have $-4003.34
+Age  51 months  6 you have $-4003.34
+Age  51 months  7 you have $-4003.34
+Age  51 months  8 you have $-4003.34
+Age  51 months  9 you have $-4003.34
+Age  51 months 10 you have $-4003.34
+Age  51 months 11 you have $-4003.34
+Age  52 months  0 you have $-4003.34
+Age  52 months  1 you have $-4003.34
+Age  52 months  2 you have $-4003.34
+Age  52 months  3 you have $-4003.34
+Age  52 months  4 you have $-4003.34
+Age  52 months  5 you have $-4003.34
+Age  52 months  6 you have $-4003.34
+Age  52 months  7 you have $-4003.34
+Age  52 months  8 you have $-4003.34
+Age  52 months  9 you have $-4003.34
+Age  52 months 10 you have $-4003.34
+Age  52 months 11 you have $-4003.34
+Age  53 months  0 you have $-4003.34
+Age  53 months  1 you have $-4003.34
+Age  53 months  2 you have $-4003.34
+Age  53 months  3 you have $-4003.34
+Age  53 months  4 you have $-4003.34
+Age  53 months  5 you have $-4003.34
+Age  53 months  6 you have $-4003.34
+Age  53 months  7 you have $-4003.34
+Age  53 months  8 you have $-4003.34
+Age  53 months  9 you have $-4003.34
+Age  53 months 10 you have $-4003.34
+Age  53 months 11 you have $-4003.34
+Age  54 months  0 you have $-4003.34
+Age  54 months  1 you have $-4003.34
+Age  54 months  2 you have $-4003.34
+Age  54 months  3 you have $-4003.34
+Age  54 months  4 you have $-4003.34
+Age  54 months  5 you have $-4003.34
+Age  54 months  6 you have $-4003.34
+Age  54 months  7 you have $-4003.34
+Age  54 months  8 you have $-4003.34
+Age  54 months  9 you have $-4003.34
+Age  54 months 10 you have $-4003.34
+Age  54 months 11 you have $-4003.34
+Age  55 months  0 you have $-4003.34
+Age  55 months  1 you have $-4003.34
+Age  55 months  2 you have $-4003.34
+Age  55 months  3 you have $-4003.34
+Age  55 months  4 you have $-4003.34
+Age  55 months  5 you have $-4003.34
+Age  55 months  6 you have $-4003.34
+Age  55 months  7 you have $-4003.34
+Age  55 months  8 you have $-4003.34
+Age  55 months  9 you have $-4003.34
+Age  55 months 10 you have $-4003.34
+Age  55 months 11 you have $-4003.34
+Age  56 months  0 you have $-4003.34
+Age  56 months  1 you have $-4003.34
+Age  56 months  2 you have $-4003.34
+Age  56 months  3 you have $-4003.34
+Age  56 months  4 you have $-4003.34
+Age  56 months  5 you have $-4003.34
+Age  56 months  6 you have $-4003.34
+Age  56 months  7 you have $-4003.34
+Age  56 months  8 you have $-4003.34
+Age  56 months  9 you have $-4003.34
+Age  56 months 10 you have $-4003.34
+Age  56 months 11 you have $-4003.34
+Age  57 months  0 you have $-4003.34
+Age  57 months  1 you have $-4003.34
+Age  57 months  2 you have $-4003.34
+Age  57 months  3 you have $-4003.34
+Age  57 months  4 you have $-4003.34
+Age  57 months  5 you have $-4003.34
+Age  57 months  6 you have $-4003.34
+Age  57 months  7 you have $-4003.34
+Age  57 months  8 you have $-4003.34
+Age  57 months  9 you have $-4003.34
+Age  57 months 10 you have $-4003.34
+Age  57 months 11 you have $-4003.34
+Age  58 months  0 you have $-4003.34
+Age  58 months  1 you have $-4003.34
+Age  58 months  2 you have $-4003.34
+Age  58 months  3 you have $-4003.34
+Age  58 months  4 you have $-4003.34
+Age  58 months  5 you have $-4003.34
+Age  58 months  6 you have $-4003.34
+Age  58 months  7 you have $-4003.34
+Age  58 months  8 you have $-4003.34
+Age  58 months  9 you have $-4003.34
+Age  58 months 10 you have $-4003.34
+Age  58 months 11 you have $-4003.34
+Age  59 months  0 you have $-4003.34
+Age  59 months  1 you have $-4003.34
+Age  59 months  2 you have $-4003.34
+Age  59 months  3 you have $-4003.34
+Age  59 months  4 you have $-4003.34
+Age  59 months  5 you have $-4003.34
+Age  59 months  6 you have $-4003.34
+Age  59 months  7 you have $-4003.34
+Age  59 months  8 you have $-4003.34
+Age  59 months  9 you have $-4003.34
+Age  59 months 10 you have $-4003.34
+Age  59 months 11 you have $-4003.34
+Age  60 months  0 you have $-4003.34
+Age  60 months  1 you have $-4003.34
+Age  60 months  2 you have $-4003.34
+Age  60 months  3 you have $-4003.34
+Age  60 months  4 you have $-4003.34
+Age  60 months  5 you have $-4003.34
+Age  60 months  6 you have $-4003.34
+Age  60 months  7 you have $-4003.34
+Age  60 months  8 you have $-4003.34
+Age  60 months  9 you have $-4003.34
+Age  60 months 10 you have $-4003.34
+Age  60 months 11 you have $-4003.34
+Age  61 months  0 you have $-4003.34
+Age  61 months  1 you have $-4003.34
+Age  61 months  2 you have $-4003.34
+Age  61 months  3 you have $-4003.34
+Age  61 months  4 you have $-4003.34
+Age  61 months  5 you have $-4003.34
+Age  61 months  6 you have $-4003.34
+Age  61 months  7 you have $-4003.34
+Age  61 months  8 you have $-4003.34
+Age  61 months  9 you have $-4003.34
+Age  61 months 10 you have $-4003.34
+Age  61 months 11 you have $-4003.34
+Age  62 months  0 you have $-4003.34
+Age  62 months  1 you have $-4003.34
+Age  62 months  2 you have $-4003.34
+Age  62 months  3 you have $-4003.34
+Age  62 months  4 you have $-4003.34
+Age  62 months  5 you have $-4003.34
+Age  62 months  6 you have $-4003.34
+Age  62 months  7 you have $-4003.34
+Age  62 months  8 you have $-4003.34
+Age  62 months  9 you have $-4003.34
+Age  62 months 10 you have $-4003.34
+Age  62 months 11 you have $-4003.34
+Age  63 months  0 you have $-4003.34
+Age  63 months  1 you have $-4003.34
+Age  63 months  2 you have $-4003.34
+Age  63 months  3 you have $-4003.34
+Age  63 months  4 you have $-4003.34
+Age  63 months  5 you have $-4003.34
+Age  63 months  6 you have $-4003.34
+Age  63 months  7 you have $-4003.34
+Age  63 months  8 you have $-4003.34
+Age  63 months  9 you have $-4003.34
+Age  63 months 10 you have $-4003.34
+Age  63 months 11 you have $-4003.34
+Age  64 months  0 you have $-4003.34
+Age  64 months  1 you have $-4003.34
+Age  64 months  2 you have $-4003.34
+Age  64 months  3 you have $-4003.34
+Age  64 months  4 you have $-4003.34
+Age  64 months  5 you have $-4003.34
+Age  64 months  6 you have $-4003.34
+Age  64 months  7 you have $-4003.34
+Age  64 months  8 you have $-4003.34
+Age  64 months  9 you have $-4003.34
+Age  64 months 10 you have $-4003.34
+Age  64 months 11 you have $-4003.34
+Age  65 months  0 you have $-4003.34
+Age  65 months  1 you have $-4003.34
+Age  65 months  2 you have $-4003.34
+Age  65 months  3 you have $-4003.34
+Age  65 months  4 you have $-4003.34
+Age  65 months  5 you have $-4003.34
+Age  65 months  6 you have $-4003.34
+Age  65 months  7 you have $-4003.34
+Age  65 months  8 you have $-4003.34
+Age  65 months  9 you have $-4003.34
+Age  65 months 10 you have $-4003.34
+Age  65 months 11 you have $-4003.34
+Age  66 months  0 you have $-4003.34
+Age  66 months  1 you have $-4003.34
+Age  66 months  2 you have $-4003.34
+Age  66 months  3 you have $-4003.34
+Age  66 months  4 you have $-4003.34
+Age  66 months  5 you have $-4003.34
+Age  66 months  6 you have $-4003.34
+Age  66 months  7 you have $-4003.34
+Age  66 months  8 you have $-4003.34
+Age  66 months  9 you have $-4003.34
+Age  66 months 10 you have $-4003.34
+Age  66 months 11 you have $-4003.34
+Age  67 months  0 you have $-4003.34
+Age  67 months  1 you have $-4003.34
+Age  67 months  2 you have $-4003.34
+Age  67 months  3 you have $-4003.34
+Age  67 months  4 you have $-4003.34
+Age  67 months  5 you have $-4003.34
+Age  67 months  6 you have $-4003.34
+Age  67 months  7 you have $-4003.34
+Age  67 months  8 you have $-4003.34
+Age  67 months  9 you have $-4003.34
+Age  67 months 10 you have $-4003.34
+Age  67 months 11 you have $-4003.34
+Age  68 months  0 you have $-4003.34
+Age  68 months  1 you have $-4003.34
+Age  68 months  2 you have $-4003.34
+Age  68 months  3 you have $-4003.34
+Age  68 months  4 you have $-4003.34
+Age  68 months  5 you have $-4003.34
+Age  68 months  6 you have $-4003.34
+Age  68 months  7 you have $-4003.34
+Age  68 months  8 you have $-4003.34
+Age  68 months  9 you have $-4003.34
+Age  68 months 10 you have $-4003.34
+Age  68 months 11 you have $-4003.34
+Age  69 months  0 you have $-4003.34
+Age  69 months  1 you have $-4003.34
+Age  69 months  2 you have $-4003.34
+Age  69 months  3 you have $-4003.34
+Age  69 months  4 you have $-4003.34
+Age  69 months  5 you have $-4003.34
+Age  69 months  6 you have $-4003.34
+Age  69 months  7 you have $-4003.34
+Age  69 months  8 you have $-4003.34
+Age  69 months  9 you have $-4003.34
+Age  69 months 10 you have $-4003.34
+Age  69 months 11 you have $-4003.34
+Age  70 months  0 you have $-4003.34
+Age  70 months  1 you have $-4003.34
+Age  70 months  2 you have $-4003.34
+Age  70 months  3 you have $-4003.34
+Age  70 months  4 you have $-4003.34
+Age  70 months  5 you have $-4003.34
+Age  70 months  6 you have $-4003.34
+Age  70 months  7 you have $-4003.34
+Age  70 months  8 you have $-4003.34
+Age  70 months  9 you have $-4003.34
+Age  70 months 10 you have $-4003.34
+Age  70 months 11 you have $-4003.34
+Age  71 months  0 you have $-4003.34
+Age  71 months  1 you have $-4003.34
+Age  71 months  2 you have $-4003.34
+Age  71 months  3 you have $-4003.34
+Age  71 months  4 you have $-4003.34
+Age  71 months  5 you have $-4003.34
+Age  71 months  6 you have $-4003.34
+Age  71 months  7 you have $-4003.34
+Age  71 months  8 you have $-4003.34
+Age  71 months  9 you have $-4003.34
+Age  71 months 10 you have $-4003.34
+Age  71 months 11 you have $-4003.34
+Age  72 months  0 you have $-4003.34
+Age  72 months  1 you have $-4003.34
+Age  72 months  2 you have $-4003.34
+Age  72 months  3 you have $-4003.34
+Age  72 months  4 you have $-4003.34
+Age  72 months  5 you have $-4003.34
+Age  72 months  6 you have $-4003.34
+Age  72 months  7 you have $-4003.34
+Age  72 months  8 you have $-4003.34
+Age  72 months  9 you have $-4003.34
 
 Overall Grade: F
