@@ -21,18 +21,18 @@ void retirement(int startAge, double initial, retire_info working, retire_info r
 	{
 	  if(i==0) {
 	    initial = (initial*working.rate_of_return*i)+ initial;
-	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initial);
+	   printf("Age %3d month %2d you have $%.2lf\n", j, k, initial);
 	  }
 	   else
 	     {
 	        initial = (initial*working.rate_of_return)+ working.contribution+initial;
-	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initial);
+	   printf("Age %3d month %2d you have $%.2lf\n", j, k, initial);
 	     }
      }
       else
 	{
 	  initial = (initial*retired.rate_of_return)+ retired.contribution+initial;
-	   printf("Age %3d months %2d you have $%.2lf\n", j, k, initial);
+	   printf("Age %3d month %2d you have $%.2lf\n", j, k, initial);
 	}
     }
   
