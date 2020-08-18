@@ -22,7 +22,7 @@ const char * ranking_to_string(hand_ranking_t r) {
   }}
 
 char value_letter(card_t c) {
-  char x='\0';
+  char x= '0';
   if(c.value>=2 && c.value<=9) { x='0'+c.value; }
   else if(c.value==10) { x='0'; }
   else if(c.value==VALUE_JACK) { x='J'; }
@@ -47,10 +47,29 @@ printf("%c%c",value_letter(c),suit_letter(c));
 
 card_t card_from_letters(char value_let, char suit_let) {
   card_t temp;
+  if(value_let>='2' && value_let<='9') { temp.value=value_let-'0'; }
+  else if(value_let=='0') { temp.value=10; }
+  else if(value_let=='J') { temp.value=VALUE_JACK; }
+  else if(value_let=='Q') { temp.value=VALUE_QUEEN; }
+  else if(value_let=='K') { temp.value=VALUE_KING; }
+  else if(value_let=='A') { temp.value=VALUE_ACE; }
+  else { assert((value_let>='2' && value_let<='9') && value_let=='0' && value_let=='J' && value_let=='Q' && value_let=='K' && value_let=='A'); }
+  
+  switch(suit_let){
+  case 's': temp.suit=SPADES; break;
+  case 'h': temp.suit=HEARTS; break;
+  case 'd': temp.suit=DIAMONDS; break;
+  case 'c': temp.suit=CLUBS; break;
+  default: assert(suit_let=='s' && suit_let=='h' && suit_let=='d' && suit_let=='c');
+  }
   return temp;
 }
 
 card_t card_from_num(unsigned c) {
   card_t temp;
+  assert(c>=0 && c<52);
+  temp.suit=c%4;
+  if(c>7){temp.value=c/4;}
+  else{temp.value=(52+c)/4;}
   return temp;
-}
+  }
