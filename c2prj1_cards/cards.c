@@ -47,13 +47,32 @@ printf("%c%c",value_letter(c),suit_letter(c));
 
 card_t card_from_letters(char value_let, char suit_let) {
   card_t temp;
-  if(value_let>='2' && value_let<='9') { temp.value=value_let-'0'; }
-  else if(value_let=='0') { temp.value=10; }
-  else if(value_let=='J') { temp.value=VALUE_JACK; }
-  else if(value_let=='Q') { temp.value=VALUE_QUEEN; }
-  else if(value_let=='K') { temp.value=VALUE_KING; }
-  else if(value_let=='A') { temp.value=VALUE_ACE; }
-  else { assert((value_let>='2' && value_let<='9') && value_let=='0' && value_let=='J' && value_let=='Q' && value_let=='K' && value_let=='A'); }
+  if(value_let>='2' && value_let<='9') 
+  {
+    temp.value=value_let-'0';
+  }
+  else if(value_let=='0') 
+  {
+    temp.value=10;
+  }
+  else if(value_let=='J')
+  {
+    temp.value=VALUE_JACK;
+  }
+  else if(value_let=='Q')
+  {
+    temp.value=VALUE_QUEEN;
+  }
+  else if(value_let=='K')
+  {
+    temp.value=VALUE_KING;
+  }
+  else if(value_let=='A') 
+  {
+    temp.value=VALUE_ACE; 
+  }
+  else
+  { assert((value_let>='2' && value_let<='9') && value_let=='0' && value_let=='J' && value_let=='Q' && value_let=='K' && value_let=='A'); }
   
   switch(suit_let){
   case 's': temp.suit=SPADES; break;
